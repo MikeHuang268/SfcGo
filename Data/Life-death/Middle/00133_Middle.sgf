@@ -1,0 +1,4 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[gp][gq][go][fq][fn][dn][cm][bm][am][aq][bq][cr][ap]AW[ao][bn][bp][cp][co][cq][dp][ep][fp]C[黑先白死]
+;B[ar]LB[bs:a]C[巧妙，白不得不a位点。];W[bs];B[dr]C[正着];W[br]
+(;B[cn]C[好棋];W[as];B[aq]C[白死。恭喜答对！])
+(;B[an]C[先打在这里，失着！];W[as];B[aq];W[cn];B[ap];W[bq]C[成劫活，黑杀棋功亏一篑。]))

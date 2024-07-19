@@ -1,0 +1,4 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[qr][qq][rq][pr][oq][pp][np][no][on][mn][lo][lp][lq][mp]AW[rr][sq][rp][rn][qo][po][pm][om][mm][nl][nn][lm][ln][ko][jn][kq][jq][lr][nr][nq][ms]C[黑先净活]
+
+(;B[mr]C[第一感非常重要];W[mq];B[sr];W[ss]C[连续两扑，非如此不能成功];B[or];W[qs];B[ps];W[ns];B[rs]LB[nm:A]C[A位已有一劫，两劫循环，黑净活])
+(;B[sr]C[次序有误];W[ss];B[or];W[qs];B[mr];W[ns]LB[nm:A]C[哈哈，白可以6位接。只能A位劫活，失败！]))

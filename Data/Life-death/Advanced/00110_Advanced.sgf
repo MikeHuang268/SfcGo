@@ -1,0 +1,7 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[oc][ob][lc][kc][jc][ib][ja]AW[hc][hb][ha][ia][id][jd][kd][ld][me][ne][od][pd][pb][qb]C[黑先活]
+
+(;B[la]C[兼顾左右，构成眼形];W[mb]C[破眼？];B[mc];W[nb];B[nc];W[oa];B[na];W[ma];B[lb]C[哈哈，接不归！])
+(;B[mc]C[看似扩大眼位的好手，其实不然]
+(;W[kb]C[破眼的感觉];B[lb];W[nb]C[继续破眼];B[nc];W[oa];B[mb];W[na];B[ma];W[ka]C[成“独眼龙”了！失败。])
+(;W[nb];B[nc];W[oa];B[mb];W[na];B[kb];W[ic];B[la]C[劫活，黑失败]))
+(;B[mb]C[看似相当顽强的一手];W[oa];B[na];W[nc]C[连续缩小眼位];B[kb];W[la]C[死活的要点];B[ic];W[ka]C[成劫活，黑方失败。]))

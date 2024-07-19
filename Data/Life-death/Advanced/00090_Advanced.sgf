@@ -1,0 +1,6 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[pc][od][qd][qe][rf][sf][ob][nb]AW[pb][qb][qc][rd][se]C[黑先白死]
+
+(;B[ra]C[急所];W[rb];B[sc]C[点。好];W[sb];B[re]C[白死。恭喜答对])
+(;B[sc]C[点，急所];W[sb]C[我靠呢？];B[rb];W[rc]C[你打吃？];B[sa];W[ra]C[好手筋。];B[qa];W[pa]C[你提，我挡。];B[re]C[失败。请重新开始])
+(;B[re];W[sc]C[从外面打吃我？我虎呢？];B[ra];W[rb];B[sd]C[失败。请重新开始])
+(;B[pa]C[扳，好吗？];W[sc]C[我虎，你怎么？];B[ra];W[rb];B[qa];W[re];B[sb]C[失败。请重新开始]))

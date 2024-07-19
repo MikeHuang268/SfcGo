@@ -1,0 +1,10 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[qr][qs][pr][nr][nq][op][oo][on][pn][qn][rn][rl][kp]AW[ro][qo][po][pp][pq][oq][or][os][ps]
+
+(;B[rq];W[qq]C[尖！是必然的一着。下一步呢？]
+(;B[rs];W[sr]C[哇，这一手你都能想到！真绝了！];B[rp];W[rr]C[我只有打吃。];B[sq];W[ss]C[没办法，只能拔了再说。];B[qr]C[原来是倒脱靴，阁下真是绝顶高手！佩服！])
+(;B[sr];W[rs]C[我打吃你怎么办？];B[rr];W[rp]C[我的计算力可很强哟！];B[sp];W[so]C[哈哈，成宽一气劫，不算赢，再想想！])
+(;B[rr];W[rp]C[粘上你也不行了！]
+(;B[sq];W[ss]C[哈哈，你差一气，再想想！])
+(;B[sp];W[so]C[还要抵抗呢？];B[sr];W[ss]C[哈哈，成宽一气劫，不算赢，再想想！])))
+(;B[rp];W[rq]C[你想得太简单了，重来吧！])
+(;B[sp];W[rq]C[我已经活了，重来吧！]))

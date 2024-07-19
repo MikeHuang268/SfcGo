@@ -1,0 +1,5 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[ip][iq][ir][ho][hn][fn][eo][fp][dp][cp][bp][cq][br][ar]AW[hq][hr][hs][ep][eq][er][dq][cr][bs][bq]C[黑先白死]
+
+(;B[ds]C[好杀着！];W[cs];B[gq];W[gr];B[fs]C[绝好的次序！];W[gp];B[es]C[先手粘];W[fr];B[hp]C[白成“直三”而死])
+(;B[fs]C[时机太早];W[fq];B[es];W[fr]C[紧气];B[ds]C[白活棋空间很大，重来吧！];W[cs])
+(;B[gq]C[不是好手];W[gr];B[ds]C[白已活，重来吧！];W[fq]))

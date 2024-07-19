@@ -1,0 +1,8 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[qr][rr][pq][oq][nq][pp][qp][qo][rn][mr][lr][ms]AW[nr][mq][lq][kq][kr][ls][ir][mo][oo][om][qn][qm][ro][rp][rq][qq][sr]
+
+(;B[so];W[rm]C[黑1扳是手筋，我只有打吃。];B[sq];W[sn]C[没办法，只能提掉。];B[ks];W[ns]C[黑提吃是好手，我只能打吃。];B[or];W[ls]C[我快不行了------------];B[os];W[mr]C[我只能粘上。];B[ss]C[恭喜答对！佩服！请以后多指教！])
+(;B[ks];W[rs]C[我扳你怎么办？]
+(;B[qs];W[pr]C[我打吃。];B[ss]C[成劫活，不算赢，再想想！])
+(;B[ps];W[or]C[哼，当然不能让你得逞！];B[pr];W[sq]C[哈哈，你已经不行了没，重来吧！])
+(;B[or];W[qs]C[我打吃你怎么办？];B[ps];W[pr]C[告诉你，我的水平可不低！];B[qr];W[ns]C[还是不活，再想想！]))
+(;B[sq];W[sp]C[我当然提掉。];B[ks];W[ns]C[看你怎么做活，哼！];B[or];W[ls]C[还不快投降！];B[ps];W[rs]C[重来吧！]))

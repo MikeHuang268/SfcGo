@@ -1,0 +1,26 @@
+KataGo v1.13.0
+Using Chinese rules initially, unless GTP/GUI overrides this
+Creating context for OpenCL Platform: NVIDIA CUDA (NVIDIA Corporation) (OpenCL 3.0 CUDA 12.1.112)
+Using OpenCL Device 0: NVIDIA GeForce RTX 3070 Ti (NVIDIA Corporation) OpenCL 3.0 CUDA (Extensions: cl_khr_global_int32_base_atomics cl_khr_global_int32_extended_atomics cl_khr_local_int32_base_atomics cl_khr_local_int32_extended_atomics cl_khr_fp64 cl_khr_3d_image_writes cl_khr_byte_addressable_store cl_khr_icd cl_khr_gl_sharing cl_nv_compiler_options cl_nv_device_attribute_query cl_nv_pragma_unroll cl_nv_d3d10_sharing cl_khr_d3d10_sharing cl_nv_d3d11_sharing cl_nv_copy_opts cl_nv_create_buffer cl_khr_int64_base_atomics cl_khr_int64_extended_atomics cl_khr_device_uuid cl_khr_pci_bus_info cl_khr_external_semaphore cl_khr_external_memory cl_khr_external_semaphore_win32 cl_khr_external_memory_win32)
+Loaded tuning parameters from: E:\Game\KataGo/KataGoData/opencltuning/tune11_gpuNVIDIAGeForceRTX3070Ti_x19_y19_c384_mv14.txt
+Initializing board with boardXSize 19 boardYSize 19
+Loaded config SfcGo.cfg
+Loaded model kata1-b18c384nbt-s7709731328-d3715293823.bin.gz
+Model name: kata1-b18c384nbt-s7709731328-d3715293823
+GTP ready, beginning main protocol loop
+tructures
+runnnlayertests : Test a few subcomponents of the current neural net backend
+
+runnnontinyboardtest : Run neural net on a tiny board and dump result to stdout
+runnnsymmetriestest : Run neural net on a hardcoded rectangle board and dump symmetries result
+runownershiptests : Run neural net search on some hardcoded positions and print avg ownership
+
+runoutputtests : Run a bunch of things and dump details to stdout
+runsearchtests : Run a bunch of things using a neural net and dump details to stdout
+runsearchtestsv3 : Run a bunch more things using a neural net and dump details to stdout
+runsearchtestsv8 : Run a bunch more things using a neural net and dump details to stdout
+runsearchtestsv9 : Run a bunch more things using a neural net and dump details to stdout
+runselfplayinittests : Run some tests involving selfplay training init using a neural net and dump details to stdout
+runsekitrainwritetests : Run some tests involving seki train output
+
+

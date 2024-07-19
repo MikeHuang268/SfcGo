@@ -1,0 +1,5 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[la][lb][lc][mc][nc][nb][ob][pb][qb][pc]AW[rb][qa][pa][qc][qd][pd][od][oc][nd][md][ld][kd][kc][kb][ka]C[黑先劫活。]
+
+(;B[sb];W[rc]C[夹，巧妙！我只有沾上。];B[ma];W[oa]C[我只有破眼。];B[ra]C[居然走成劫活，你真不错，恭喜答对！])
+(;B[ra];W[sa]C[你想干什么？我的水平可不低。];B[oa];W[ma]C[想这么容易做活？没门！];B[ra];W[qa]C[你不行了，再好好想想。])
+(;B[rc];W[sa]C[断，不错！但你没想到我有这种手段吧？];B[oa];W[ma]C[哼！休想做活！];B[ra];W[qa]C[投降吧！];B[pa];W[rd]C[还是不行。];B[ra];W[sc]C[你输了，重来吧！]))

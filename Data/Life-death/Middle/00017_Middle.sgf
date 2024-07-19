@@ -1,0 +1,16 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[hc][gb][fc][dc][ee][df][dg][dh][ch][bh][ce][cd][bd]AW[cg][cf][bg][ag][be][ad][bc][de]C[黑先]
+
+(;B[ab];W[cc]C[黑点巧妙];B[dd];W[bb]
+(;B[ca];W[db]C[好手！]
+(;B[da];W[eb];B[ea]C[佩服，佩服！])
+(;B[eb];W[da]C[活了]))
+(;B[da];W[ca]C[无法吃白]))
+(;B[ba];W[cc];B[dd];W[db]
+(;B[da];W[eb]
+(;B[ea];W[fa];B[ca];W[fb]C[被吃了])
+(;B[cb];W[bb];B[ab];W[ca]C[打劫，失败]))
+(;B[cb];W[bb];B[da];W[ca]C[打劫，不成功]))
+(;B[cb];W[bb];B[ba];W[cc];B[dd];W[db];B[da];W[ca]C[打劫，不成功啊])
+(;B[db];W[ba]
+(;B[ab];W[ac]C[无法吃白])
+(;B[bb];W[cb]C[不行啊])))

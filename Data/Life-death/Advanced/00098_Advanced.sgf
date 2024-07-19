@@ -1,0 +1,4 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[rd][qd][pd][od][nc][mc][lc][lb][ma]AW[mb][nb][oa][oc][pc][qc][qb]C[黑先劫]
+
+(;B[sb]C[小飞是急所。];W[sc]C[我断。];B[rc];W[rb]C[我再跨断。];B[la]C[粘，好。];W[pa]C[想从外面进攻。我走这里。];B[ra];W[sa]C[成劫。恭喜答对])
+(;B[rb];W[rc]C[你跳，我冲。];B[sc];W[sb]C[再扑。];B[sa];W[qa]C[我要做活了。];B[sd];W[pb]C[失败。请重新开始]))

@@ -1,0 +1,6 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[rc][qc][pb][ob][mc][jc][jb][ja][jd][ke][le][me][ne][oe][pe][qe][pd]AW[rd][qd][pc][oc][od][md][nd][ld][ka][kb][kc][nb]C[黑先劫]
+
+(;B[lc];W[kd];B[mb];W[qb];B[rb];W[lb];B[na];W[ma]C[恭喜答对])
+(;B[mb];W[qb];B[rb];W[ma]
+(;B[nc];W[na];B[lb];W[lc]C[失败，重来吧])
+(;B[lb];W[lc]C[双活，失败])))

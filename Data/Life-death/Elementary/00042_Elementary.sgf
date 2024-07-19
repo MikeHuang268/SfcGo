@@ -1,0 +1,6 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[qq][qr][pp][op][np][nq][mq][mr][ms]AW[qp][rp][rq][rr][oq][or][po][qn][nn][mo][mp][kp][lq][lr][ls]C[黑先双活]
+
+(;B[os];W[nr]C[黑1托是急所。];B[pr];W[qs]C[黑3曲是好手，成双活，恭喜答对！])
+(;B[qs];W[os]C[我也立下，你怎么办？];B[pq];W[pr]C[嘻嘻，里面是花六死棋，重来吧！])
+(;B[ps];W[os]C[我立下，你怎么办？];B[pq];W[pr]C[重来吧！])
+(;B[pq];W[os]C[我立下，你怎么办？];B[qs];W[pr]C[嘻嘻，里面是花六死棋，重来吧！]))

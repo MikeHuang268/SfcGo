@@ -1,0 +1,4 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[po][qo][ro][so][op][oq][or][pr]AW[pq][qr][rr][qp][rp][sp]C[黑先杀白]
+
+(;B[qs]C[缩小眼位的必然一手];W[rs];B[sr]C[点在要津];W[pp];B[rq]C[白棋气太紧了！];W[qq];B[sq]C[成“曲三”，白死。恭喜答对！])
+(;B[sr]C[直接点，不行。];W[sq];B[qq];W[ss]LB[pp:A][qs:B]C[黑A、B两点不能兼顾。杀棋失败！]))

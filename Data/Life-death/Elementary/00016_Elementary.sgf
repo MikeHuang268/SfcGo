@@ -1,0 +1,7 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[bb][bc][cc][dc][ed][fd][gd][hc][hb][jb][kb][lc][kd][jf][he][gf]AW[cb][db][ba][ec][fc][gc][hd][id][jc][ib][ha]C[黑先]
+
+(;B[eb];W[fb]C[断是好手];B[ea];W[fa]C[立又是好手];B[ga];W[da];B[ia]C[佩服，佩服！])
+(;B[ga];W[ia];B[eb];W[fb];B[ea];W[ic];B[ca];W[gb]C[此法不能成立])
+(;B[gb];W[fb];B[fa];W[eb]C[此法不行吧])
+(;B[fb];W[eb]C[简单成活])
+(;B[fa];W[eb]C[换种方法试试]))

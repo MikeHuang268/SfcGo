@@ -1,0 +1,14 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[ab][bc][bd][be][cf][df][ef][ff][fd][fc][gb][hc]AW[bb][cc][cd][ce][de][ed][ec][dc][fb]C[黑先]
+
+(;B[fa]C[好手];W[db]
+(;B[da];W[ca]C[只此一手];B[ea];W[ac]
+(;B[aa];W[ba]C[好棋！漂亮！];B[ab]C[佩服，佩服！])
+(;B[ad];W[aa]C[打劫，不算成功]))
+(;B[eb];W[ca]C[打劫活，失败])
+(;B[ca];W[ea]C[打劫，换种方法试试]))
+(;B[db];W[eb];B[cb];W[ba]C[被吃了])
+(;B[ba];W[ea];B[cb];W[db]C[你只好打劫了，不能算成功]
+(;B[ga];W[fa];B[da];W[ca])
+(;B[da];W[ca]))
+(;B[eb];W[db];B[fa];W[ca]C[打劫，失败])
+(;B[cb];W[db];B[ba];W[ea]C[打劫啊，换种走法吧]))

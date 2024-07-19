@@ -1,0 +1,6 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[qr][qq][oq][or][nr][mr]AW[pq][op][qp][rp][qn][no][nq][mq][lr][kq]C[黑先劫活]
+
+(;B[ps];W[rr]C[黑1尖是妙手。];B[rq];W[sq]C[我只能渡过。];B[sr];W[ss]C[没办法，只有提掉。];B[rs]C[恭喜答对！佩服！])
+(;B[pr];W[rq]C[我贴长你怎么办？];B[rr];W[sr]C[我再扳你已经无法做活，再想想！])
+(;B[sr];W[rq]C[我贴长你怎么办？];B[rr];W[pr]C[我冲后，你已经无法做活，再想想！])
+(;B[rq];W[pr]C[我冲你怎么办？];B[ps];W[pp]C[你已经无法做活，重来吧！]))

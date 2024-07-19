@@ -1,0 +1,6 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[rs][rp][ro][qo][pp][oo][oq][nq][nr][lq][lr]AW[kq][kr][ns][or][pq][qq][qp][rq][qr]
+
+(;B[ps];W[os]C[点，我只有沾上。];B[ms];W[pr]C[还是只有沾上。]
+(;B[sr];W[sq]C[哇，这手我可没想到，我要完了。];B[qs]C[恭喜答对！])
+(;B[qs];W[sr]C[哈哈，成了双活，再想想！]))
+(;B[ms];W[ps]C[成打劫活，不算做对，再想想。]))

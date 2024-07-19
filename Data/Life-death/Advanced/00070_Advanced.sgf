@@ -1,0 +1,5 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[qa][qb][qc][pc][pe][nd][md][ld][ke][id][hd][hb][ib]AW[ia][jb][jc][kc][lc][nc][ob][pb]C[黑先杀白]
+
+(;B[oa];W[pa]C[托是妙手。];B[nb];W[na]C[好厉害，还有嵌的手筋。];B[mb];W[mc]C[我要抵挡不住了。];B[oc]C[恭喜答对，以后请多多指教。])
+(;B[pa];W[oa]C[你想的太简单了，我挡];B[oc];W[nb]C[挤也没用];B[lb];W[mc]C[不像能杀死我的样子];B[ma];W[ka]C[双活了，重来吧。])
+(;B[ka];W[ja]C[我的眼位很大];B[oa];W[mb]C[没想到我有这一手吧];B[pa];W[la]C[我要做出两只眼啦];B[na];W[kb]C[我活啦，重来吧]))

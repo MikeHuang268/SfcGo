@@ -1,0 +1,10 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[rr][rq][qq][pp][op][np][mp][lp][lq][kr][ks]AW[lr][ls][mq][nr][oq][pq][qr][ps]C[第55期 初段
+
+黑先劫杀]
+
+(;B[rs];W[nq]C[黑1先下立是正着。];B[ms];W[mr]C[我只有接上。];B[pr];W[or]C[先扑吃，好棋！我只能提。];B[qs]C[恭喜答对！佩服！])
+(;B[ns];W[os]C[黑1托，看似好棋，但----------];B[nq];W[mr]C[我粘上你能乃我何？];B[rs];W[pr]C[我已经活了，重来吧！])
+(;B[mr];W[ms]C[哈哈，这着我早 已料到了。];B[nq];W[or]C[我已经活棋，再想想！])
+(;B[nq];W[mr]C[直接打吃，我只能粘上。]
+(;B[os];W[or]C[我已经活棋，重来吧！])
+(;B[rs];W[ns]C[哈哈，我还是活了。再想想！])))

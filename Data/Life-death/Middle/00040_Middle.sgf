@@ -1,0 +1,6 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[pq][qq][rq][rr][op][np][mp][lq][lr][lo][mn][jn][ip][hq][ir][jr]AW[lp][kp][jq][kr][ls][mq][nq][oq][pr][qr]
+
+(;B[or];W[nr]C[断，这一手很容易想到，不算什么！];B[os];W[ns]C[立！是必然。];B[ms];W[ps]C[扑，好漂亮的手筋，我算服你了！];B[ks]C[恭喜答对，以后多指教！])
+(;B[ms];W[ks]C[先打吃，好象次序不对吧？];B[or];W[nr]C[我打吃！];B[os];W[kq]C[我再打吃，你怎么办？];B[qs];W[mr]C[哈哈，成了接不归！再想想！])
+(;B[mr];W[nr]C[我挡住你怎么办？];B[ns];W[or]C[重来吧！])
+(;B[qs];W[os]C[你想得太简单了吧？];B[rs];W[mr]C[重来吧！]))

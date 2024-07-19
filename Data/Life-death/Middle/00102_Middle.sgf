@@ -1,0 +1,4 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[rb][rc][pc][oc][nc][ob][na]AW[pa][nb][mb][lb][mc][md][nd][qd][rd][pe][qf][pg]C[黑先活]
+
+(;B[qc];W[ra];B[qa];W[qb];B[sc];W[oa];B[pb];W[ma];B[sa]C[成连环劫，黑已活])
+(;B[oa];W[sc];B[sb];W[qb];B[qc];W[ra]C[失败，重来吧]))

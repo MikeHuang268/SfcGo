@@ -1,0 +1,7 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[ba][bb][bc][cd][ce][de][ee][fe][ge][id][jd][jc][ib][hb]AW[cb][eb][dc][ed][fd][gd][gc][hc][ic]
+
+(;B[cc];W[da]C[挤，好手!];B[fa];W[ga]C[再飞，好顺序，我有点招架不了了。];B[gb];W[ca]C[你是高手啊！];B[fb]C[佩服，恭喜答对！])
+(;B[ca];W[da]C[你的想法好象很简单。];B[fa];W[cc]C[我先做眼。];B[fb];W[gb]C[我早料到你这一手了。];B[ga];W[fc]C[哈哈，我已活了，你再想想吧！])
+(;B[fa];W[ca]C[好象是手筋。];B[fb];W[gb]C[我还以为你有什么高招呢？];B[ga];W[fc]C[我 已活了，重来吧！])
+(;B[gb];W[fb]C[我挡上，看你怎么办！];B[ca];W[da]C[我再挡上，];B[cc];W[fa]C[哈哈，是劫活，不算赢，再想想。])
+(;B[da];W[ca]C[我的水平可不低。];B[ea];W[fb]C[我已活了，重来吧！]))

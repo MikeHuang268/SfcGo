@@ -1,0 +1,5 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[pb][ob][od][oe][of][nf][mf][lf][ke][jd][je][jb][ib]AW[kb][kc][kd][ld][me][ne][nd][nc][nb]C[黑先白死]
+
+(;B[na];W[ma]C[你从右边扳，我挡。];B[ka]C[再扳是好次序。];W[mc];B[lb]C[成功。恭喜答对])
+(;B[ka]C[从这里扳好吗？];W[la]C[我这么挡好象有些活的样子。];B[lb];W[ja]C[你断，我提。];B[ma];W[na]C[我扳呢？];B[ka];W[mb];B[ia];W[lc]C[失败。请重新开始])
+(;B[mc]C[眼形的急所。];W[ka]C[我这么立下就不会死了吧？];B[na];W[ma]C[这么扳呢？];B[mb];W[oa]C[我提。];B[lb];W[lc]C[失败。请重新开始]))

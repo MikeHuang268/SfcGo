@@ -1,0 +1,7 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[rb][qc][pc][ob][nc][mc][mb]AW[lb][la][lc][md][nd][od][oc][pd][qd][rd][pb]C[黑先活]
+
+(;B[oa]C[立是好手]
+(;W[qb];B[rc];W[sb];B[ra];W[sc];B[ma]C[恭喜答对！])
+(;W[sb];B[qb];W[ma];B[sc]C[也能活。]))
+(;B[pa];W[na]C[点是妙手];B[oa];W[sb];B[sc];W[rc];B[qb];W[ra]C[成劫，行棋失败])
+(;B[qb];W[oa];B[na]C[成劫就是失败。重来吧，大侠！]))

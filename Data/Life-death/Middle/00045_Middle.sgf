@@ -1,0 +1,8 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[rr][qs][ps][or][oq][nq][mr][np][no][mp][nm][mm][om][lo][iq][ir][gq][hp][ho][hn][hm]AW[jq][ip][kp][kr][lq][mq][io][jo][jm][km][lm][ml][nl][ol][pm][po][qn][op][pq][pr][qr][rq][sr][mn]
+
+(;B[ks];W[js]C[黑先托是活棋的妙手。];B[ls];W[jr]C[我只能沾上。]
+(;B[ns];W[lr]C[你这着好沉着呀！阁下看来不是泛泛之辈。];B[ln]C[恭喜答对！佩服！请以后多指教。])
+(;B[ln];W[ns]C[你想到我这着了吗？];B[os];W[lr]C[哈哈，不行了吧？再想想！]))
+(;B[ls];W[ks]C[我挡你怎么办？];B[ns];W[lr]C[我再打吃。];B[ln];W[ms]C[成劫活，不算赢。再想想！])
+(;B[ln];W[ns]C[你想得太简单了，重来吧！])
+(;B[lr];W[ks]C[我立下，你怎么办？];B[ln];W[ms]C[不行了吧！再想想！]))

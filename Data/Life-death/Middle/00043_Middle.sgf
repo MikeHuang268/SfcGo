@@ -1,0 +1,7 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[rq][rp][so][sn][rn][qn][qo][pn][on][om][no][np][op][oq][or][mp][lp][lq][lr]AW[rr][sq][qq][pr][qp][pp][po][oo][nn][nm][nl][ol][pk][pm][qm][rm][sm][ln][kn][kp][jp][jr][kr][mr]C[黑先双活]
+
+(;B[sr];W[ss]C[先扑，是妙手！]
+(;B[qs];W[ps]C[再点，好次序！我只能挡上。];B[os];W[qr]C[黑5是绝妙的一手，阁下好厉害呀！];B[nr];W[ls]C[我快招架不住了。];B[ms];W[ns]C[我完了——-];B[mq]C[居然让你走成双活，恭喜答对！佩服！])
+(;B[ps];W[qs]C[扳，我当然挡上。];B[os];W[ls]C[哈哈，我渡过之后，你就死了，再想想！]))
+(;B[qs];W[qr]C[我粘上你怎么办？];B[sr];W[ps]C[嘻嘻，想到我这着了吗？];B[os];W[ls]C[哈哈，我渡过之后，你就死了，再想想！])
+(;B[qr];W[qs]C[我提了，你怎么办？];B[sr];W[ss]C[哼！休想得逞！];B[os];W[ls]C[哈哈，我渡过之后，你就死了，再想想！]))

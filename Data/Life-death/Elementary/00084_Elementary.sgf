@@ -1,0 +1,4 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[ra][rb][rc][qd][pd][nd][od][md][ld][kd][kc][jb][ib][nc]AW[mc][lc][kb][la][nb][oc][pc][qc][qb][pa]C[黑先白死]
+
+(;B[ob]C[断，好。];W[mb]C[我这样呢？];B[na]C[扳是好手。];W[oa];B[qa]C[扑杀，白死。恭喜答对])
+(;B[mb];W[ob]C[你这样断不太好吧？我粘呢？];B[lb];W[na]C[白活。请重新开始]))

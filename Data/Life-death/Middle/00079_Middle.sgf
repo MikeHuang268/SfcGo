@@ -1,0 +1,5 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[pb][ob][na][od][pd][nd][me][le][ke][je][ie][id][ic][hb][gb]AW[ib][jc][jd][kd][ld][md][nc][nb][lb]C[黑先白死]
+
+(;B[kb]C[是急所。];W[jb]C[我粘呢？];B[la]C[渡，杀死白棋。恭喜答对])
+(;B[ma]C[长];W[jb]C[那我这里粘上就不会死了。];B[ia]C[扳];W[mb]C[扳我也不怕。];B[lc];W[ja];B[kc];W[la];B[kb]C[白双活。请重新开始。])
+(;B[jb];W[kb]C[你断吃吗？];B[ia];W[ma]C[白活棋。请重新开始]))

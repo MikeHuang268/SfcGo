@@ -1,0 +1,9 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[cr][cq][cp][dp][ep][fp][gp][do][en][fn][fo][gq]AW[bp][bq][br][cs][dr][dq][hr][hq][hp][ho][gn][fm][em][dn][cn][co]C[ 黑先活]
+
+(;B[es];W[eq]C[ 哇，招法好犀利啊！];B[ds];W[fs]C[但要想做活也不容易];B[bs];W[er];B[fr];W[cs]C[厉害！我的手上在出汗]
+(;B[fq];W[as]C[太厉害了!!!!!!];B[ds];W[es];B[gs]C[黑棋成功做活，恭喜！])
+(;B[ds];W[gs]C[此路走不通，请选重作])
+(;B[gs];W[ds];B[es];W[as]C[这样无法做活，请选重作]))
+(;B[er];W[eq]C[你的招法有点简单];B[fq];W[ds];B[es];W[bs];B[gr];W[gs]C[已经活不了了，请选重作])
+(;B[fr];W[eq]C[简单被吃，请选重作])
+(;B[eq];W[fr]C[好象你不行啊];B[er];W[es];B[ds];W[dr];B[gr];W[gs]C[没有活的可能了，请选重作]))

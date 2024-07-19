@@ -1,0 +1,5 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[rp][rq][rr][rs][qo][pn][on][nn][mo][lo][lp][lq][lr][mr]AW[qp][qq][qr][qs][no][oo][mp][nr][or][ns]
+
+(;B[pp];W[pq]C[黑1扳是杀棋的急所。];B[ps];W[po]C[点杀，必然！];B[oq];W[op]C[你的棋力不低呀！];B[nq]C[恭喜答对！欢迎常来！])
+(;B[nq];W[oq]C[真想杀我也没那么容易，哼！];B[pp];W[pq]C[嘻嘻，看你怎么办。];B[ps];W[po]C[我已活了，再想想。])
+(;B[ps];W[pp]C[我的招法你没想到吧？];B[nq];W[oq]C[哈哈，我已经快活了。];B[pr];W[np]C[重来吧！]))

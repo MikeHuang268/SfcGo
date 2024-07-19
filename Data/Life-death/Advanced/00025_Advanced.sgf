@@ -1,0 +1,13 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[ic][hc][gc][fd][fe][de][df][cf][be][bd][bb][db]AW[ac][bc][cb][cd][ce][dd][ec][fc]C[黑先]
+
+(;B[ea];W[ba]C[小尖妙手];B[ab];W[gb]
+(;B[dc];W[cc];B[fb];W[da];B[ca]C[劫杀，正确   恭喜答对！])
+(;B[ga];W[fb]C[不行啊])
+(;B[hb];W[fb]C[被吃]))
+(;B[ga];W[ea]C[忽略这手了吧];B[eb];W[fb];B[fa];W[gb]C[换种走法试试])
+(;B[fb];W[eb]
+(;B[ca];W[cc];B[ea];W[ba]C[不行吧];B[aa];W[ab];B[ba];W[dc]C[从来吧])
+(;B[ea];W[ba];B[ab];W[dc]C[无法吃白]))
+(;B[fa];W[ba];B[ab];W[gb]C[反击]
+(;B[fb];W[eb];B[ea];W[dc]C[被吃啦])
+(;B[hb];W[fb]C[此法不行啊])))

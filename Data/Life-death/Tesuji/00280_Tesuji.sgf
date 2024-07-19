@@ -1,0 +1,7 @@
+(;AB[dp][dq][dr][bo][dn][fn][gm][ep][fq][in][ip][iq][kq]AW[bq][cr][ds][er][eq][fp][gp][hq]C[黑先，有何手段]
+
+(;B[is];W[hr]C[好手];B[hs];W[gs]C[好棋];B[fs]C[白死，恭喜答对])
+(;B[gs];W[es]C[失败，重来吧])
+(;B[fr];W[es]C[接];B[fs];W[cs]
+(;B[hr];W[gr]C[失败，重来吧])
+(;B[hs];W[gs];B[gr];W[hr]C[失败，重来吧])))

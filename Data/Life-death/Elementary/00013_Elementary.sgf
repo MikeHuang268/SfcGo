@@ -1,0 +1,15 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[bb][bc][bd][ce][de][ee][fe][gd][hd][hc][ib][jc]AW[cd][cc][cb][db][dd][fc][gc][hb]C[黑先]
+
+(;B[ec];W[ed]
+(;B[fb];W[gb]C[黑次序相当巧妙];B[eb];W[fd]C[我只好如此]
+(;B[ca];W[ea];B[fa];W[da];B[ha]C[佩服，佩服！])
+(;B[ha];W[ga];B[ca];W[da];B[ea]C[恭喜答对！]))
+(;B[gb];W[fb];B[ha];W[ca]
+(;B[ea];W[fa];B[eb];W[fd]C[双活，您失败了])
+(;B[fa];W[ea]C[简单成活])))
+(;B[ha];W[fb];B[ec];W[ed]
+(;B[ca];W[ga]C[打劫，失败])
+(;B[ea];W[ga]C[打劫，失败])
+(;B[gb];W[ca];B[ea];W[fa];B[eb];W[fd]C[双活！换种走法试试]))
+(;B[gb];W[fb];B[ha];W[ec]C[简单成活])
+(;B[ca];W[ga]C[不行吧]))

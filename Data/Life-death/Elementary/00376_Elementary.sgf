@@ -1,0 +1,6 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[rp][rq][pp][pq][oo][np][nq][mr][lq]AW[sr][rr][qr][pr][oq][nr]C[黑先]
+
+(;B[rs];W[ns]
+(;B[or];W[os];B[qs]C[恭喜答对])
+(;B[qs];W[or];B[ps]C[失败，重来吧]))
+(;B[ns];W[os]C[失败，重来吧]))

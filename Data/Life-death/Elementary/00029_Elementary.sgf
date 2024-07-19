@@ -1,0 +1,9 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[sb][pb][pc][pd][pe][qc][of][nf][nb][nc][nd]AW[ra][qb][rc][sc][qd][qe][qf][pf][ph][nh][mg][mf][me][ld][lc][mb][od]C[死活问题，黑先劫杀。]
+
+(;B[rb];W[sa]C[你想立活？哼！我才不上当。]
+(;B[rb];W[sb]C[咦？这是什么意思？];B[oa];W[oc]C[想活？没那么容易。];B[qa]C[喔！原来是先手劫活，佩服！恭喜答对！])
+(;B[oa];W[oc]C[想干什么？作劫？];B[rb];W[qa]C[哈哈，失算了吧！]))
+(;B[oa];W[oc]C[想活？没那么容易。];B[rb];W[qa]C[你没招了吧？再好好想想。])
+(;B[pa];W[na]C[你的想法也太简单了。];B[rb];W[sa]C[每戏了吧？];B[rb];W[sb]C[真可惜，你只能痛苦的死掉。])
+(;B[oc];W[oa]C[我的水平可不低。];B[pa];W[na]C[你已经不行了。];B[rb];W[sa]C[哈哈，再好好想想吧！])
+(;B[na];W[oc]C[我不明白你的意思。];B[pa];W[ne]C[想双活？没门！];B[oe];W[ob]C[嘻，不好意思，你完了。]))

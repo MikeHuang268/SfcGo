@@ -1,0 +1,8 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[rr][rs][qq][qp][op][np][nq][nr]AW[rp][rq][sr][qo][rn][oo][on][mn][lo][lq][kq][mr][oq][or]
+
+(;B[ps];W[ns]C[黑跳是活棋的妙手。];B[os];W[pr]C[我只有打吃。]
+(;B[pq];W[qs]C[黑5打吃是关键，阁下好厉害呀！];B[os]C[原来是接不归，恭喜答对！请以后多指教！])
+(;B[ms];W[qr]C[我长你怎么办？];B[pp];W[pq]C[哈哈，成了刀把五，再想想！]))
+(;B[os];W[ps]C[我当然挡上。];B[ns];W[pq]C[我的这着是不是很厉害？]
+(;B[pr];W[qr]C[我提了你能怎么样？];B[pp];W[pr]C[我接上后---------];B[qs];W[pr]C[哈哈，是花六，再想想！])
+(;B[pp];W[pr]C[哈哈，成了刀把五，再想想！])))

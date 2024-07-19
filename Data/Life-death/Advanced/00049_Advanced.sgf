@@ -1,0 +1,7 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[qr][rr][sq][pq][pp][qp][oo][np][nq][mp][lp][lq][lr][mr]AW[nr][or][pr][qq][rq][rp][ro][qo][po][pn][pl][nn][no][mo][lo][ko][kp][kq][jr][iq]C[黑先活棋]
+
+(;B[rs];W[sr]C[黑曲是不易觉察的妙手，但离活棋还早！];B[oq];W[os]C[我有顽强的手段。];B[qs];W[ms]C[哼！至少也可以和你打劫。];B[ss];W[sp]C[这是什么意思？];B[ls];W[sr]C[嘻嘻，好象是我快一气吧？];B[ns];W[ps]C[呀！坏事了！我刚明白--------];B[qr]C[恭喜答对！真是高手呀！快给我签个名吧！])
+(;B[oq];W[rs]C[我的这着是不是令你很为难？];B[qs];W[sp]C[我的计算力可不差哦！];B[ns];W[sr]C[哈哈，怎么样？];B[ss]C[成打劫了，不算赢，再想想！])
+(;B[ps];W[qs]C[我早已料到 了。];B[rs];W[os]C[成打劫了，不算赢，再想想！])
+(;B[ns];W[qs]C[我早已料到 了。];B[rs];W[os]C[我打吃你怎么办？];B[oq];W[ms]C[成打劫了，不算赢，再想想！])
+(;B[sr];W[ps]C[你算错了吧？黑棋差一气被杀，重来吧！]))

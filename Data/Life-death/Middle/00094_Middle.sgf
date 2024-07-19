@@ -1,0 +1,4 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[ia][jb][ld][md][nc][od][pc][pb]AW[rb][qb][qc][pd][pe][of][mf][mg][kf][jd][ic][ib][hb][lc][mb]C[黑先劫]
+
+(;B[kc]C[先行分断。];W[kb]C[我虎呢？];B[lb]C[扑，常用手段。];W[la]C[我提。];B[mc]C[打吃，做劫。];W[lb]C[我粘上呢？];B[nb]C[挡是先手];W[ne];B[ka]C[成功。恭喜答对])
+(;B[nb]C[挡，好吗？];W[lb]C[我这么走是不是好手？];B[kc]C[想抵抗？];W[kb];B[ne];W[oe]C[我怎么走呢？];B[mc];W[me]C[失败。请重新开始]))

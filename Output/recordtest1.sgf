@@ -1,0 +1,908 @@
+(;GM[1]FF[4]
+SZ[19]
+DT[2015-07-19]
+C[owl_attack B1: KO_A A2 (attack effective (ko) - E)]KM[6.5]HA[0]
+AW[bn][co][bp][bq][cq][br][bs]
+AB[am][bm][cm][dn][do][cp][dp][dq][cr][dr]
+AP[SFC Go:1.0]
+(;B[ao]C[A916 at A5 (variation 1, hash 0755e60ecc74f3e7)
+owl_defend B4: WIN A6 (defense effective)
+  (50 variations)
+(next variation: 51)]
+MA[bn][co][bp][bq][cq][br][bs];W[an]C[eat lunch at A6 (variation 2, hash ca71f5aeb7fab772)
+owl_attack B4: 0 (attack failed)
+  (49 variations)
+(next variation: 51)]
+MA[an][bn][co][bp][bq][cq][br][bs]
+(;B[bo]C[vital move at B5 (variation 3, hash 6a91beb6cfe4a180)
+owl_defend B4: WIN A4 (defense effective)
+  (36 variations)
+(next variation: 39)]
+MA[an][bn][co][bp][bq][cq][br][bs];W[ap]C[eat lunch at A4 (variation 4, hash f7470e2aec1b3800)
+owl_attack B4: 0 (attack failed)
+  (35 variations)
+(next variation: 39)]
+MA[an][bn][co][ap][bp][bq][cq][br][bs]
+(;B[ar]C[vital move at A2 (variation 5, hash 69510c09c6824a83)
+owl_defend A4: WIN C6 (defense effective)
+  (2 variations)
+(next variation: 7)]
+MA[an][bn][co][ap][bp][bq][cq][br][bs];W[cn]C[D706 at C6 (variation 6, hash 60416f47a59ff1e1)
+owl_attack A4: 0 (2 or more secure eyes)
+(next variation: 7)]
+MA[an][bn][cn][co][ap][bp][bq][cq][br][bs])
+(;B[bo]C[A719b at B5 (variation 7, hash 57a7453294052ef2)
+owl_defend A4: WIN A5 (defense effective)
+  (12 variations)
+(next variation: 19)]
+MA[an][bn][co][ap][bp][bq][cq][br][bs];W[ao]C[eat lunch at A5 (variation 8, hash 2fed995be7bc0917)
+owl_attack A4: 0 (attack failed)
+  (11 variations)
+(next variation: 19)]
+MA[an][bn][ao][co][ap][bp][bq][cq][br][bs]
+(;B[cn]C[vital move at C6 (variation 9, hash 679dca7be58d2107)
+owl_defend A6: WIN A2 (defense effective)
+  (2 variations)
+(next variation: 11)]
+MA[an][bn][ao][co][ap][bp][bq][cq][br][bs];W[ar]C[vital move at A2 (variation 10, hash 6492f0fc3ae5a27e)
+owl_attack A6: 0 (2 or more secure eyes)
+(next variation: 11)]
+MA[an][bn][ao][co][ap][bp][bq][cq][ar][br][bs])
+(;B[ar]C[vital move at A2 (variation 11, hash b1fb9b78cd257b94)
+owl_defend A6: WIN C6 (defense effective)
+  (2 variations)
+(next variation: 13)]
+MA[an][bn][ao][co][ap][bp][bq][cq][br][bs];W[cn]C[vital move at C6 (variation 12, hash b8ebf836ae38c0f6)
+owl_attack A6: 0 (2 or more secure eyes)
+(next variation: 13)]
+MA[an][bn][cn][ao][co][ap][bp][bq][cq][br][bs])
+(;B[aq]C[tactical attack at A3 (variation 13, hash 581d3d3d082b9871)
+owl_defend A6: WIN C6 (defense effective)
+  (2 variations)
+(next variation: 15)]
+MA[an][bn][ao][co][ap][bp][bq][cq][br][bs];W[cn]C[vital move at C6 (variation 14, hash 510d5e736b362313)
+owl_attack A6: 0 (2 or more secure eyes)
+(next variation: 15)]
+MA[an][bn][cn][ao][co][ap][bp][bq][cq][br][bs])
+(;B[as]C[tactical attack at A1 (variation 15, hash 258add070b6349c7)
+owl_defend A6: WIN C6 (defense effective)
+  (2 variations)
+(next variation: 17)]
+MA[an][bn][ao][co][ap][bp][bq][cq][br][bs];W[cn]C[vital move at C6 (variation 16, hash 2c9abe49687ef2a5)
+owl_attack A6: 0 (2 or more secure eyes)
+(next variation: 17)]
+MA[an][bn][cn][ao][co][ap][bp][bq][cq][br][bs])
+(;B[cs]C[tactical attack at C1 (variation 17, hash b48b30475bdaa792)
+owl_defend A6: WIN C6 (defense effective)
+  (2 variations)
+(next variation: 19)]
+MA[an][bn][ao][co][ap][bp][bq][cq][br][bs];W[cn]C[vital move at C6 (variation 18, hash bd9b530938c71cf0)
+owl_attack A6: 0 (2 or more secure eyes)
+(next variation: 19)]
+MA[an][bn][cn][ao][co][ap][bp][bq][cq][br][bs]))
+(;B[cn]C[A710 at C6 (variation 19, hash bf375d0aee2a1010)
+owl_defend A4: WIN B5 (defense effective)
+  (2 variations)
+(next variation: 21)]
+MA[an][bn][co][ap][bp][bq][cq][br][bs];W[bo]C[vital move at B5 (variation 20, hash 686b5eeafdfe0471)
+owl_attack A4: 0 (2 or more secure eyes)
+(next variation: 21)]
+MA[an][bn][bo][co][ap][bp][bq][cq][br][bs])
+(;B[ao]C[tactical attack at A5 (variation 21, hash 7fd111a12a6c6c70)
+owl_defend A4: WIN A2 (defense effective)
+  (2 variations)
+(next variation: 23)]
+MA[an][bn][co][ap][bp][bq][cq][br][bs];W[ar]C[vital move at A2 (variation 22, hash 7cde2b26f504ef09)
+owl_attack A4: 0 (2 or more secure eyes)
+(next variation: 23)]
+MA[an][bn][co][ap][bp][bq][cq][ar][br][bs])
+(;B[aq]C[tactical attack at A3 (variation 23, hash 80b7aa4c038ca966)
+owl_defend A4: WIN A2 (defense effective)
+  (8 variations)
+(next variation: 31)]
+MA[an][bn][co][ap][bp][bq][cq][br][bs];W[ar]C[vital move at A2 (variation 24, hash f44834ad3373bb79)
+owl_attack A4: 0 (attack failed)
+  (7 variations)
+(next variation: 31)]
+MA[an][bn][co][ap][bp][bq][cq][ar][br][bs]
+(;B[bo]C[A719b at B5 (variation 25, hash 54a87fb54b6dad8b)
+owl_defend A4: WIN PASS (2 or more secure eyes)
+(next variation: 26)]
+MA[an][bn][co][ap][bp][bq][cq][ar][br][bs])
+(;B[cn]C[A710 at C6 (variation 26, hash bc38678d31429369)
+owl_defend A4: WIN B5 (defense effective)
+  (2 variations)
+(next variation: 28)]
+MA[an][bn][co][ap][bp][bq][cq][ar][br][bs];W[bo]C[VA24 at B5 (variation 27, hash 6b64646d22968708)
+owl_attack A4: 0 (2 or more secure eyes)
+(next variation: 28)]
+MA[an][bn][bo][co][ap][bp][bq][cq][ar][br][bs])
+(;B[ao]C[tactical attack at A5 (variation 28, hash 7cde2b26f504ef09)
+owl_defend A4: WIN PASS (2 or more secure eyes)
+(next variation: 29)]
+MA[an][bn][co][ap][bp][bq][cq][ar][br][bs])
+(;B[cs]C[tactical attack at C1 (variation 29, hash 6f2e9db18f1515fc)
+owl_defend A4: WIN C6 (defense effective)
+  (2 variations)
+(next variation: 31)]
+MA[an][bn][co][ap][bp][bq][cq][ar][br][bs];W[cn]C[VA49 at C6 (variation 30, hash 663efeffec08ae9e)
+owl_attack A4: 0 (2 or more secure eyes)
+(next variation: 31)]
+MA[an][bn][cn][co][ap][bp][bq][cq][ar][br][bs]))
+(;B[as]C[tactical attack at A1 (variation 31, hash fd204a7600c478d0)
+owl_defend A4: WIN A2 (defense effective)
+  (2 variations)
+(next variation: 33)]
+MA[an][bn][co][ap][bp][bq][cq][br][bs];W[ar]C[vital move at A2 (variation 32, hash f44834ad3373bb79)
+owl_attack A4: 0 (cached)
+(next variation: 33)]
+MA[an][bn][co][ap][bp][bq][cq][ar][br][bs])
+(;B[cs]C[tactical attack at C1 (variation 33, hash 6c21a736507d9685)
+owl_defend A4: WIN A2 (defense effective)
+  (6 variations)
+(next variation: 39)]
+MA[an][bn][co][ap][bp][bq][cq][br][bs];W[ar]C[vital move at A2 (variation 34, hash 6f2e9db18f1515fc)
+owl_attack A4: 0 (attack failed)
+  (5 variations)
+(next variation: 39)]
+MA[an][bn][co][ap][bp][bq][cq][ar][br][bs]
+(;B[bo]C[A719b at B5 (variation 35, hash cfced6a9f70b030e)
+owl_defend A4: WIN PASS (2 or more secure eyes)
+(next variation: 36)]
+MA[an][bn][co][ap][bp][bq][cq][ar][br][bs])
+(;B[cn]C[A710 at C6 (variation 36, hash 275ece918d243dec)
+owl_defend A4: WIN B5 (defense effective)
+  (2 variations)
+(next variation: 38)]
+MA[an][bn][co][ap][bp][bq][cq][ar][br][bs];W[bo]C[VA24 at B5 (variation 37, hash f002cd719ef0298d)
+owl_attack A4: 0 (2 or more secure eyes)
+(next variation: 38)]
+MA[an][bn][bo][co][ap][bp][bq][cq][ar][br][bs])
+(;B[ao]C[tactical attack at A5 (variation 38, hash e7b8823a4962418c)
+owl_defend A4: WIN PASS (2 or more secure eyes)
+(next variation: 39)]
+MA[an][bn][co][ap][bp][bq][cq][ar][br][bs])))
+(;B[ar]C[A910 at A2 (variation 39, hash 5467f78d9d63c5f1)
+owl_defend B4: WIN B5 (defense effective)
+  (2 variations)
+(next variation: 41)]
+MA[an][bn][co][bp][bq][cq][br][bs];W[bo]C[vital move at B5 (variation 40, hash 833bf46d8eb7d190)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 41)]
+MA[an][bn][bo][co][bp][bq][cq][br][bs])
+(;B[cn]C[VA49 at C6 (variation 41, hash 8201a68eb5cb9f62)
+owl_defend B4: WIN B5 (defense effective)
+  (2 variations)
+(next variation: 43)]
+MA[an][bn][co][bp][bq][cq][br][bs];W[bo]C[eat lunch at B5 (variation 42, hash 555da56ea61f8b03)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 43)]
+MA[an][bn][bo][co][bp][bq][cq][br][bs])
+(;B[ap]C[tactical attack at A4 (variation 43, hash 3b24d81711574da3)
+owl_defend B4: WIN B5 (defense effective)
+  (2 variations)
+(next variation: 45)]
+MA[an][bn][co][bp][bq][cq][br][bs];W[bo]C[vital move at B5 (variation 44, hash ec78dbf7028359c2)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 45)]
+MA[an][bn][bo][co][bp][bq][cq][br][bs])
+(;B[aq]C[tactical attack at A3 (variation 45, hash bd8151c8586d2614)
+owl_defend B4: WIN B5 (defense effective)
+  (2 variations)
+(next variation: 47)]
+MA[an][bn][co][bp][bq][cq][br][bs];W[bo]C[vital move at B5 (variation 46, hash 6add52284bb93275)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 47)]
+MA[an][bn][bo][co][bp][bq][cq][br][bs])
+(;B[as]C[tactical attack at A1 (variation 47, hash c016b1f25b25f7a2)
+owl_defend B4: WIN B5 (defense effective)
+  (2 variations)
+(next variation: 49)]
+MA[an][bn][co][bp][bq][cq][br][bs];W[bo]C[vital move at B5 (variation 48, hash 174ab21248f1e3c3)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 49)]
+MA[an][bn][bo][co][bp][bq][cq][br][bs])
+(;B[cs]C[tactical attack at C1 (variation 49, hash 51175cb20b9c19f7)
+owl_defend B4: WIN B5 (defense effective)
+  (2 variations)
+(next variation: 51)]
+MA[an][bn][co][bp][bq][cq][br][bs];W[bo]C[vital move at B5 (variation 50, hash 864b5f5218480d96)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 51)]
+MA[an][bn][bo][co][bp][bq][cq][br][bs]))
+(;B[an]C[A607c at A6 (variation 51, hash 7f39194a79b17321)
+owl_defend B4: WIN A5 (defense effective)
+  (2 variations)
+(next variation: 53)]
+MA[bn][co][bp][bq][cq][br][bs];W[ao]C[vital move at A5 (variation 52, hash a7938e3b72164236)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 53)]
+MA[bn][ao][co][bp][bq][cq][br][bs])
+(;B[ar]C[A910 at A2 (variation 53, hash 11d5fba6209ad514)
+owl_defend B4: KO_B A6 (defense effective (ko) - B)
+(next variation: 109)]
+MA[bn][co][bp][bq][cq][br][bs];W[an]C[marginal eye space at A6 (variation 54, hash dcf1e8065b149181)
+owl_attack B4: KO_A B5 (attack effective (ko) - E)
+(next variation: 109)]
+MA[an][bn][co][bp][bq][cq][br][bs]
+(;B[cn]C[A710 at C6 (variation 55, hash 9481bb265925b991)
+owl_defend B4: WIN B5 (defense effective)
+  (2 variations)
+(next variation: 57)]
+MA[an][bn][co][bp][bq][cq][br][bs];W[bo]C[VA24 at B5 (variation 56, hash 43ddb8c64af1adf0)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 57)]
+MA[an][bn][bo][co][bp][bq][cq][br][bs])
+(;B[ao]C[tactical attack at A5 (variation 57, hash 5467f78d9d63c5f1)
+owl_defend B4: WIN B5 (cached)
+(next variation: 58)]
+MA[an][bn][co][bp][bq][cq][br][bs])
+(;B[bo]C[tactical attack at B5 (variation 58, hash 7c11a31e230a8773)
+owl_defend B4: KO_B A5 (defense effective (ko) - B)
+(next variation: 74)]
+MA[an][bn][co][bp][bq][cq][br][bs];W[ao]C[eat lunch at A5 (variation 59, hash 045b7f7750b3a096)
+owl_attack B4: KO_A C6 (attack effective (ko) - E)
+(next variation: 74)]
+MA[an][bn][ao][co][bp][bq][cq][br][bs]
+(;B[cn]C[vital move at C6 (variation 60, hash 4c2b2c5752828886)
+owl_defend B4: KO_B A3 (defense effective (ko) - B)
+(next variation: 66)]
+MA[an][bn][ao][co][bp][bq][cq][br][bs];W[aq]C[vital move at A3 (variation 61, hash 0eb31531ece1666a)
+owl_attack B4: KO_A B5 (attack effective (ko) - E)
+(next variation: 66)]
+MA[an][bn][ao][co][bp][aq][bq][cq][br][bs]
+(;B[bo]C[vital move at B5 (variation 62, hash 62bd45e458a4a901)
+owl_defend B4: KO_B C5 (defense effective (ko) - B)
+(next variation: 64)]
+MA[an][bn][ao][co][bp][aq][bq][cq][br][bs];W[]C[tenuki (ko threat)]
+;B[]C[tenuki (answers ko threat)];W[co]C[tryko: VA47b (variation 63, 1270007e70776eb4)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 64)]
+MA[an][bn][ao][co][bp][aq][bq][cq][br][bs])
+(;B[cs]C[tactical attack at C1 (variation 64, hash 95d5bc2d5087c8ef)
+owl_defend B4: WIN B5 (defense effective)
+  (2 variations)
+(next variation: 66)]
+MA[an][bn][ao][co][bp][aq][bq][cq][br][bs];W[bo]C[vital move at B5 (variation 65, hash 4289bfcd4353dc8e)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 66)]
+MA[an][bn][ao][bo][co][bp][aq][bq][cq][br][bs]))
+(;B[aq]C[vital move at A3 (variation 66, hash 73abdb11bf2431f0)
+owl_defend B4: WIN C6 (defense effective)
+  (2 variations)
+(next variation: 68)]
+MA[an][bn][ao][co][bp][bq][cq][br][bs];W[cn]C[vital move at C6 (variation 67, hash 7abbb85fdc398a92)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 68)]
+MA[an][bn][cn][ao][co][bp][bq][cq][br][bs])
+(;B[ap]C[tactical attack at A4 (variation 68, hash f50e52cef61e5a47)
+owl_defend B4: WIN A3 (defense effective)
+  (2 variations)
+(next variation: 70)]
+MA[an][bn][ao][co][bp][bq][cq][br][bs];W[aq]C[vital move at A3 (variation 69, hash 46c34611eed04e7a)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 70)]
+MA[an][bn][ao][co][bp][aq][bq][cq][br][bs])
+(;B[as]C[tactical attack at A1 (variation 70, hash 0e3c3b2bbc6ce046)
+owl_defend B4: WIN C6 (defense effective)
+  (2 variations)
+(next variation: 72)]
+MA[an][bn][ao][co][bp][bq][cq][br][bs];W[cn]C[vital move at C6 (variation 71, hash 072c5865df715b24)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 72)]
+MA[an][bn][cn][ao][co][bp][bq][cq][br][bs])
+(;B[cs]C[tactical attack at C1 (variation 72, hash 9f3dd66becd50e13)
+owl_defend B4: WIN C6 (defense effective)
+  (2 variations)
+(next variation: 74)]
+MA[an][bn][ao][co][bp][bq][cq][br][bs];W[cn]C[vital move at C6 (variation 73, hash 962db5258fc8b571)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 74)]
+MA[an][bn][cn][ao][co][bp][bq][cq][br][bs]))
+(;B[ap]C[tactical attack at A4 (variation 74, hash 2da4c5bffdb96b50)
+owl_defend B4: WIN B5 (defense effective)
+  (2 variations)
+(next variation: 76)]
+MA[an][bn][co][bp][bq][cq][br][bs];W[bo]C[vital move at B5 (variation 75, hash faf8c65fee6d7f31)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 76)]
+MA[an][bn][bo][co][bp][bq][cq][br][bs])
+(;B[aq]C[tactical attack at A3 (variation 76, hash ab014c60b48300e7)
+owl_defend B4: WIN C6 (defense effective)
+  (12 variations)
+(next variation: 88)]
+MA[an][bn][co][bp][bq][cq][br][bs];W[cn]C[D706 at C6 (variation 77, hash a2112f2ed79ebb85)
+owl_attack B4: 0 (attack failed)
+  (11 variations)
+(next variation: 88)]
+MA[an][bn][cn][co][bp][bq][cq][br][bs]
+(;B[ao]C[VA9 at A5 (variation 78, hash 2a8730a511e9eff5)
+owl_defend B4: WIN B5 (defense effective)
+  (2 variations)
+(next variation: 80)]
+MA[an][bn][cn][co][bp][bq][cq][br][bs];W[bo]C[eat lunch at B5 (variation 79, hash fddb3345023dfb94)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 80)]
+MA[an][bn][cn][bo][co][bp][bq][cq][br][bs])
+(;B[bo]C[tactical attack at B5 (variation 80, hash 02f16436af80ad77)
+owl_defend B4: WIN A5 (defense effective)
+  (2 variations)
+(next variation: 82)]
+MA[an][bn][cn][co][bp][bq][cq][br][bs];W[ao]C[eat lunch at A5 (variation 81, hash 7abbb85fdc398a92)
+owl_attack B4: 0 (cached)
+(next variation: 82)]
+MA[an][bn][cn][ao][co][bp][bq][cq][br][bs])
+(;B[ap]C[tactical attack at A4 (variation 82, hash 5344029771334154)
+owl_defend B4: WIN A1 (defense effective)
+  (2 variations)
+(next variation: 84)]
+MA[an][bn][cn][co][bp][bq][cq][br][bs];W[as]C[eat lunch at A1 (variation 83, hash 691f5980f1abcff3)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 84)]
+MA[an][bn][cn][co][bp][bq][cq][br][as][bs])
+(;B[as]C[tactical attack at A1 (variation 84, hash a8766b723b41fb55)
+owl_defend B4: WIN A5 (defense effective)
+  (2 variations)
+(next variation: 86)]
+MA[an][bn][cn][co][bp][bq][cq][br][bs];W[ao]C[VA9 at A5 (variation 85, hash 70dcfc0330e6ca42)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 86)]
+MA[an][bn][cn][ao][co][bp][bq][cq][br][bs])
+(;B[cs]C[tactical attack at C1 (variation 86, hash 397786326bf81500)
+owl_defend B4: WIN A4 (defense effective)
+  (2 variations)
+(next variation: 88)]
+MA[an][bn][cn][co][bp][bq][cq][br][bs];W[ap]C[eat lunch at A4 (variation 87, hash 8cd7623df66ece02)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 88)]
+MA[an][bn][cn][co][ap][bp][bq][cq][br][bs]))
+(;B[as]C[tactical attack at A1 (variation 88, hash d696ac5ab7cbd151)
+owl_defend B4: WIN C6 (defense effective)
+  (11 variations)
+(next variation: 99)]
+MA[an][bn][co][bp][bq][cq][br][bs];W[cn]C[D706 at C6 (variation 89, hash df86cf14d4d66a33)
+owl_attack B4: 0 (attack failed)
+  (10 variations)
+(next variation: 99)]
+MA[an][bn][cn][co][bp][bq][cq][br][bs]
+(;B[ao]C[VA9 at A5 (variation 90, hash 5710d09f12a13e43)
+owl_defend B4: WIN B5 (defense effective)
+  (2 variations)
+(next variation: 92)]
+MA[an][bn][cn][co][bp][bq][cq][br][bs];W[bo]C[eat lunch at B5 (variation 91, hash 804cd37f01752a22)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 92)]
+MA[an][bn][cn][bo][co][bp][bq][cq][br][bs])
+(;B[bo]C[tactical attack at B5 (variation 92, hash 7f66840cacc87cc1)
+owl_defend B4: WIN A5 (defense effective)
+  (2 variations)
+(next variation: 94)]
+MA[an][bn][cn][co][bp][bq][cq][br][bs];W[ao]C[eat lunch at A5 (variation 93, hash 072c5865df715b24)
+owl_attack B4: 0 (cached)
+(next variation: 94)]
+MA[an][bn][cn][ao][co][bp][bq][cq][br][bs])
+(;B[ap]C[tactical attack at A4 (variation 94, hash 2ed3e2ad727b90e2)
+owl_defend B4: WIN A3 (defense effective)
+  (2 variations)
+(next variation: 96)]
+MA[an][bn][cn][co][bp][bq][cq][br][bs];W[aq]C[eat lunch at A3 (variation 95, hash f83a9db40a5e4c5d)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 96)]
+MA[an][bn][cn][co][bp][aq][bq][cq][br][bs])
+(;B[aq]C[tactical attack at A3 (variation 96, hash a8766b723b41fb55)
+owl_defend B4: WIN A5 (cached)
+(next variation: 97)]
+MA[an][bn][cn][co][bp][bq][cq][br][bs])
+(;B[cs]C[tactical attack at C1 (variation 97, hash 44e0660868b0c4b6)
+owl_defend B4: WIN A5 (defense effective)
+  (2 variations)
+(next variation: 99)]
+MA[an][bn][cn][co][bp][bq][cq][br][bs];W[ao]C[VA9 at A5 (variation 98, hash 9c4af1796317f5a1)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 99)]
+MA[an][bn][cn][ao][co][bp][bq][cq][br][bs]))
+(;B[cs]C[tactical attack at C1 (variation 99, hash 4797411ae7723f04)
+owl_defend B4: WIN C6 (defense effective)
+  (10 variations)
+(next variation: 109)]
+MA[an][bn][co][bp][bq][cq][br][bs];W[cn]C[D706 at C6 (variation 100, hash 4e872254846f8466)
+owl_attack B4: 0 (attack failed)
+  (9 variations)
+(next variation: 109)]
+MA[an][bn][cn][co][bp][bq][cq][br][bs]
+(;B[ao]C[VA9 at A5 (variation 101, hash c6113ddf4218d016)
+owl_defend B4: WIN B5 (defense effective)
+  (2 variations)
+(next variation: 103)]
+MA[an][bn][cn][co][bp][bq][cq][br][bs];W[bo]C[eat lunch at B5 (variation 102, hash 114d3e3f51ccc477)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 103)]
+MA[an][bn][cn][bo][co][bp][bq][cq][br][bs])
+(;B[bo]C[tactical attack at B5 (variation 103, hash ee67694cfc719294)
+owl_defend B4: WIN A5 (defense effective)
+  (2 variations)
+(next variation: 105)]
+MA[an][bn][cn][co][bp][bq][cq][br][bs];W[ao]C[eat lunch at A5 (variation 104, hash 962db5258fc8b571)
+owl_attack B4: 0 (cached)
+(next variation: 105)]
+MA[an][bn][cn][ao][co][bp][bq][cq][br][bs])
+(;B[ap]C[tactical attack at A4 (variation 105, hash bfd20fed22c27eb7)
+owl_defend B4: WIN A3 (defense effective)
+  (2 variations)
+(next variation: 107)]
+MA[an][bn][cn][co][bp][bq][cq][br][bs];W[aq]C[eat lunch at A3 (variation 106, hash fd4a368b9ca1905b)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 107)]
+MA[an][bn][cn][co][bp][aq][bq][cq][br][bs])
+(;B[aq]C[tactical attack at A3 (variation 107, hash 397786326bf81500)
+owl_defend B4: WIN A4 (cached)
+(next variation: 108)]
+MA[an][bn][cn][co][bp][bq][cq][br][bs])
+(;B[as]C[tactical attack at A1 (variation 108, hash 44e0660868b0c4b6)
+owl_defend B4: WIN A5 (cached)
+(next variation: 109)]
+MA[an][bn][cn][co][bp][bq][cq][br][bs])))
+(;B[cn]C[VA49 at C6 (variation 109, hash c7b3aaa508328f87)
+owl_defend B4: WIN B5 (defense effective)
+  (23 variations)
+(next variation: 132)]
+MA[bn][co][bp][bq][cq][br][bs];W[bo]C[VA24 at B5 (variation 110, hash 10efa9451be69be6)
+owl_attack B4: 0 (attack failed)
+  (22 variations)
+(next variation: 132)]
+MA[bn][bo][co][bp][bq][cq][br][bs]
+(;B[an]C[A607c at A6 (variation 111, hash e015498a68544f50)
+owl_defend B6: WIN A5 (defense effective)
+  (2 variations)
+(next variation: 113)]
+MA[bn][bo][co][bp][bq][cq][br][bs];W[ao]C[vital move at A5 (variation 112, hash 38bfdefb63f37e47)
+owl_attack B6: 0 (2 or more secure eyes)
+(next variation: 113)]
+MA[bn][ao][bo][co][bp][bq][cq][br][bs])
+(;B[ar]C[A910 at A2 (variation 113, hash 8ef9ab66317fe965)
+owl_defend B6: WIN A6 (defense effective)
+  (2 variations)
+(next variation: 115)]
+MA[bn][bo][co][bp][bq][cq][br][bs];W[an]C[vital move at A6 (variation 114, hash 43ddb8c64af1adf0)
+owl_attack B6: 0 (cached)
+(next variation: 115)]
+MA[an][bn][bo][co][bp][bq][cq][br][bs])
+(;B[ao]C[tactical attack at A5 (variation 115, hash 9879b6cedd91cf96)
+owl_defend B6: WIN A6 (defense effective)
+  (2 variations)
+(next variation: 117)]
+MA[bn][bo][co][bp][bq][cq][br][bs];W[an]C[eat lunch at A6 (variation 116, hash 555da56ea61f8b03)
+owl_attack B6: 0 (cached)
+(next variation: 117)]
+MA[an][bn][bo][co][bp][bq][cq][br][bs])
+(;B[ap]C[tactical attack at A4 (variation 117, hash e1ba84fcbd4b6137)
+owl_defend B6: WIN A6 (defense effective)
+  (2 variations)
+(next variation: 119)]
+MA[bn][bo][co][bp][bq][cq][br][bs];W[an]C[D604 at A6 (variation 118, hash 2c9e975cc6c525a2)
+owl_attack B6: 0 (2 or more secure eyes)
+(next variation: 119)]
+MA[an][bn][bo][co][bp][bq][cq][br][bs])
+(;B[aq]C[tactical attack at A3 (variation 119, hash 671f0d23f4710a80)
+owl_defend B6: WIN A2 (defense effective)
+  (9 variations)
+(next variation: 128)]
+MA[bn][bo][co][bp][bq][cq][br][bs];W[ar]C[vital move at A2 (variation 120, hash 641037a42b1989f9)
+owl_attack B6: 0 (attack failed)
+  (8 variations)
+(next variation: 128)]
+MA[bn][bo][co][bp][bq][cq][ar][br][bs]
+(;B[an]C[A607c at A6 (variation 121, hash 94ead76b58ab5d4f)
+owl_defend B6: WIN A5 (defense effective)
+  (2 variations)
+(next variation: 123)]
+MA[bn][bo][co][bp][bq][cq][ar][br][bs];W[ao]C[marginal eye space at A5 (variation 122, hash 4c40401a530c6c58)
+owl_attack B6: 0 (2 or more secure eyes)
+(next variation: 123)]
+MA[bn][ao][bo][co][bp][bq][cq][ar][br][bs])
+(;B[ao]C[tactical attack at A5 (variation 123, hash ec86282fed6edd89)
+owl_defend B6: WIN A6 (defense effective)
+  (2 variations)
+(next variation: 125)]
+MA[bn][bo][co][bp][bq][cq][ar][br][bs];W[an]C[eat lunch at A6 (variation 124, hash 21a23b8f96e0991c)
+owl_attack B6: 0 (2 or more secure eyes)
+(next variation: 125)]
+MA[an][bn][bo][co][bp][bq][cq][ar][br][bs])
+(;B[ap]C[tactical attack at A4 (variation 125, hash 95451a1d8db47328)
+owl_defend B6: WIN PASS (2 or more secure eyes)
+(next variation: 126)]
+MA[bn][bo][co][bp][bq][cq][ar][br][bs])
+(;B[cs]C[tactical attack at C1 (variation 126, hash ff769eb8977f277c)
+owl_defend B6: WIN A6 (defense effective)
+  (2 variations)
+(next variation: 128)]
+MA[bn][bo][co][bp][bq][cq][ar][br][bs];W[an]C[D604 at A6 (variation 127, hash 32528d18ecf163e9)
+owl_attack B6: 0 (2 or more secure eyes)
+(next variation: 128)]
+MA[an][bn][bo][co][bp][bq][cq][ar][br][bs]))
+(;B[as]C[tactical attack at A1 (variation 128, hash 1a88ed19f739db36)
+owl_defend B6: WIN A6 (defense effective)
+  (2 variations)
+(next variation: 130)]
+MA[bn][bo][co][bp][bq][cq][br][bs];W[an]C[D604 at A6 (variation 129, hash d7acfeb98cb79fa3)
+owl_attack B6: 0 (2 or more secure eyes)
+(next variation: 130)]
+MA[an][bn][bo][co][bp][bq][cq][br][bs])
+(;B[cs]C[tactical attack at C1 (variation 130, hash 8b890059a7803563)
+owl_defend B6: WIN A6 (defense effective)
+  (2 variations)
+(next variation: 132)]
+MA[bn][bo][co][bp][bq][cq][br][bs];W[an]C[D604 at A6 (variation 131, hash 46ad13f9dc0e71f6)
+owl_attack B6: 0 (2 or more secure eyes)
+(next variation: 132)]
+MA[an][bn][bo][co][bp][bq][cq][br][bs]))
+(;B[bo]C[tactical attack at B5 (variation 132, hash 2f23b29d721db165)
+owl_defend B4: WIN A5 (defense effective)
+  (2 variations)
+(next variation: 134)]
+MA[bn][co][bp][bq][cq][br][bs];W[ao]C[eat lunch at A5 (variation 133, hash 57696ef401a49680)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 134)]
+MA[bn][ao][co][bp][bq][cq][br][bs])
+(;B[ap]C[tactical attack at A4 (variation 134, hash 7e96d43cacae5d46)
+owl_defend B4: WIN B5 (defense effective)
+  (15 variations)
+(next variation: 149)]
+MA[bn][co][bp][bq][cq][br][bs];W[bo]C[eat lunch at B5 (variation 135, hash a9cad7dcbf7a4927)
+owl_attack B4: 0 (attack failed)
+  (14 variations)
+(next variation: 149)]
+MA[bn][bo][co][bp][bq][cq][br][bs]
+(;B[an]C[A607c at A6 (variation 136, hash 59303713ccc89d91)
+owl_defend B6: WIN A5 (defense effective)
+  (2 variations)
+(next variation: 138)]
+MA[bn][bo][co][bp][bq][cq][br][bs];W[ao]C[eat lunch at A5 (variation 137, hash 819aa062c76fac86)
+owl_attack B6: 0 (2 or more secure eyes)
+(next variation: 138)]
+MA[bn][ao][bo][co][bp][bq][cq][br][bs])
+(;B[ar]C[A910 at A2 (variation 138, hash 37dcd5ff95e33ba4)
+owl_defend B6: WIN A6 (defense effective)
+  (2 variations)
+(next variation: 140)]
+MA[bn][bo][co][bp][bq][cq][br][bs];W[an]C[vital move at A6 (variation 139, hash faf8c65fee6d7f31)
+owl_attack B6: 0 (cached)
+(next variation: 140)]
+MA[an][bn][bo][co][bp][bq][cq][br][bs])
+(;B[cn]C[tactical attack at C6 (variation 140, hash e1ba84fcbd4b6137)
+owl_defend B6: WIN A6 (cached)
+(next variation: 141)]
+MA[bn][bo][co][bp][bq][cq][br][bs])
+(;B[ao]C[tactical attack at A5 (variation 141, hash 215cc857790d1d57)
+owl_defend B6: WIN A6 (defense effective)
+  (2 variations)
+(next variation: 143)]
+MA[bn][bo][co][bp][bq][cq][br][bs];W[an]C[eat lunch at A6 (variation 142, hash ec78dbf7028359c2)
+owl_attack B6: 0 (cached)
+(next variation: 143)]
+MA[an][bn][bo][co][bp][bq][cq][br][bs])
+(;B[aq]C[tactical attack at A3 (variation 143, hash de3a73ba50edd841)
+owl_defend B6: WIN A2 (defense effective)
+  (2 variations)
+(next variation: 145)]
+MA[bn][bo][co][bp][bq][cq][br][bs];W[ar]C[vital move at A2 (variation 144, hash dd35493d8f855b38)
+owl_attack B6: 0 (2 or more secure eyes)
+(next variation: 145)]
+MA[bn][bo][co][bp][bq][cq][ar][br][bs])
+(;B[as]C[tactical attack at A1 (variation 145, hash a3ad938053a509f7)
+owl_defend B6: WIN A6 (defense effective)
+  (2 variations)
+(next variation: 147)]
+MA[bn][bo][co][bp][bq][cq][br][bs];W[an]C[D604 at A6 (variation 146, hash 6e898020282b4d62)
+owl_attack B6: 0 (2 or more secure eyes)
+(next variation: 147)]
+MA[an][bn][bo][co][bp][bq][cq][br][bs])
+(;B[cs]C[tactical attack at C1 (variation 147, hash 32ac7ec0031ce7a2)
+owl_defend B6: WIN A6 (defense effective)
+  (2 variations)
+(next variation: 149)]
+MA[bn][bo][co][bp][bq][cq][br][bs];W[an]C[D604 at A6 (variation 148, hash ff886d607892a337)
+owl_attack B6: 0 (2 or more secure eyes)
+(next variation: 149)]
+MA[an][bn][bo][co][bp][bq][cq][br][bs]))
+(;B[aq]C[tactical attack at A3 (variation 149, hash f8335de3e59436f1)
+owl_defend B4: WIN A2 (defense effective)
+  (31 variations)
+(next variation: 180)]
+MA[bn][co][bp][bq][cq][br][bs];W[ar]C[D804a at A2 (variation 150, hash fb3c67643afcb588)
+owl_attack B4: 0 (attack failed)
+  (30 variations)
+(next variation: 180)]
+MA[bn][co][bp][bq][cq][ar][br][bs]
+(;B[an]C[A607c at A6 (variation 151, hash 0bc687ab494e613e)
+owl_defend B4: WIN A5 (defense effective)
+  (2 variations)
+(next variation: 153)]
+MA[bn][co][bp][bq][cq][ar][br][bs];W[ao]C[D308 at A5 (variation 152, hash d36c10da42e95029)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 153)]
+MA[bn][ao][co][bp][bq][cq][ar][br][bs])
+(;B[ao]C[A610 at A5 (variation 153, hash 73aa78effc8be1f8)
+owl_defend B4: WIN A6 (defense effective)
+  (12 variations)
+(next variation: 165)]
+MA[bn][co][bp][bq][cq][ar][br][bs];W[an]C[eat lunch at A6 (variation 154, hash be8e6b4f8705a56d)
+owl_attack B4: 0 (attack failed)
+  (11 variations)
+(next variation: 165)]
+MA[an][bn][co][bp][bq][cq][ar][br][bs]
+(;B[bo]C[vital move at B5 (variation 155, hash 1e6e2057ff1bb39f)
+owl_defend B4: WIN A4 (defense effective)
+  (2 variations)
+(next variation: 157)]
+MA[an][bn][co][bp][bq][cq][ar][br][bs];W[ap]C[eat lunch at A4 (variation 156, hash f44834ad3373bb79)
+owl_attack B4: 0 (cached)
+(next variation: 157)]
+MA[an][bn][co][ap][bp][bq][cq][ar][br][bs])
+(;B[cn]C[VA49 at C6 (variation 157, hash f6fe386f85348d7d)
+owl_defend B4: WIN B5 (defense effective)
+  (2 variations)
+(next variation: 159)]
+MA[an][bn][co][bp][bq][cq][ar][br][bs];W[bo]C[eat lunch at B5 (variation 158, hash 21a23b8f96e0991c)
+owl_attack B4: 0 (cached)
+(next variation: 159)]
+MA[an][bn][bo][co][bp][bq][cq][ar][br][bs])
+(;B[ap]C[tactical attack at A4 (variation 159, hash 4fdb46f621a85fbc)
+owl_defend B4: WIN B5 (defense effective)
+  (4 variations)
+(next variation: 163)]
+MA[an][bn][co][bp][bq][cq][ar][br][bs]
+(;W[cn]C[VA49 at C6 (variation 160, hash 46cb25b842b5e4de)
+owl_attack B4: WIN B5 (attack effective)
+  (2 variations)
+(next variation: 162)]
+MA[an][bn][cn][co][bp][bq][cq][ar][br][bs];B[bo]C[save lunch at B5 (variation 161, hash dc28477b359fef18)
+owl_defend B4: 0 (defense failed - genus 1)
+  (1 variations)
+(next variation: 162)]
+MA[an][bn][cn][co][bp][bq][cq][ar][br][bs])
+(;W[bo]C[D711 at B5 (variation 162, hash 96b4d342bd31741a)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 163)]
+MA[an][bn][bo][co][bp][bq][cq][ar][br][bs]))
+(;B[cs]C[tactical attack at C1 (variation 163, hash 25e8c2533b630be8)
+owl_defend B4: WIN B5 (defense effective)
+  (2 variations)
+(next variation: 165)]
+MA[an][bn][co][bp][bq][cq][ar][br][bs];W[bo]C[vital move at B5 (variation 164, hash f2b4c1b328b71f89)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 165)]
+MA[an][bn][bo][co][bp][bq][cq][ar][br][bs]))
+(;B[cn]C[VA49 at C6 (variation 165, hash b34c344438cd9d98)
+owl_defend B4: WIN B5 (defense effective)
+  (2 variations)
+(next variation: 167)]
+MA[bn][co][bp][bq][cq][ar][br][bs];W[bo]C[D909 at B5 (variation 166, hash 641037a42b1989f9)
+owl_attack B4: 0 (cached)
+(next variation: 167)]
+MA[bn][bo][co][bp][bq][cq][ar][br][bs])
+(;B[bo]C[tactical attack at B5 (variation 167, hash 5bdc2c7c42e2a37a)
+owl_defend B4: WIN A5 (defense effective)
+  (2 variations)
+(next variation: 169)]
+MA[bn][co][bp][bq][cq][ar][br][bs];W[ao]C[eat lunch at A5 (variation 168, hash 2396f015315b849f)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 169)]
+MA[bn][ao][co][bp][bq][cq][ar][br][bs])
+(;B[ap]C[tactical attack at A4 (variation 169, hash 0a694add9c514f59)
+owl_defend B4: WIN A5 (defense effective)
+  (2 variations)
+(next variation: 171)]
+MA[bn][co][bp][bq][cq][ar][br][bs];W[ao]C[vital move at A5 (variation 170, hash 54665473decc15f9)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 171)]
+MA[bn][ao][co][bp][bq][cq][ar][br][bs])
+(;B[cs]C[tactical attack at C1 (variation 171, hash 605ace78869a1b0d)
+owl_defend B4: WIN A6 (defense effective)
+  (9 variations)
+(next variation: 180)]
+MA[bn][co][bp][bq][cq][ar][br][bs];W[an]C[marginal eye space at A6 (variation 172, hash ad7eddd8fd145f98)
+owl_attack B4: 0 (attack failed)
+  (8 variations)
+(next variation: 180)]
+MA[an][bn][co][bp][bq][cq][ar][br][bs]
+(;B[ap]C[vital move at A4 (variation 173, hash 5c2bf0615bb9a549)
+owl_defend B4: WIN C6 (defense effective)
+  (2 variations)
+(next variation: 175)]
+MA[an][bn][co][bp][bq][cq][ar][br][bs];W[cn]C[VA49 at C6 (variation 174, hash 553b932f38a41e2b)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 175)]
+MA[an][bn][cn][co][bp][bq][cq][ar][br][bs])
+(;B[cn]C[A710 at C6 (variation 175, hash e50e8ef8ff257788)
+owl_defend B4: WIN B5 (defense effective)
+  (2 variations)
+(next variation: 177)]
+MA[an][bn][co][bp][bq][cq][ar][br][bs];W[bo]C[D909 at B5 (variation 176, hash 32528d18ecf163e9)
+owl_attack B4: 0 (cached)
+(next variation: 177)]
+MA[an][bn][bo][co][bp][bq][cq][ar][br][bs])
+(;B[ao]C[tactical attack at A5 (variation 177, hash 25e8c2533b630be8)
+owl_defend B4: WIN B5 (cached)
+(next variation: 178)]
+MA[an][bn][co][bp][bq][cq][ar][br][bs])
+(;B[bo]C[tactical attack at B5 (variation 178, hash 0d9e96c0850a496a)
+owl_defend B4: WIN A5 (defense effective)
+  (2 variations)
+(next variation: 180)]
+MA[an][bn][co][bp][bq][cq][ar][br][bs];W[ao]C[eat lunch at A5 (variation 179, hash 75d44aa9f6b36e8f)
+owl_attack B4: 0 (2 or more secure eyes)
+(next variation: 180)]
+MA[an][bn][ao][co][bp][bq][cq][ar][br][bs])))
+(;B[as]C[tactical attack at A1 (variation 180, hash 85a4bdd9e6dce747)
+owl_defend B4: WIN B5 (defense effective)
+  (23 variations)
+(next variation: 203)]
+MA[bn][co][bp][bq][cq][br][bs];W[bo]C[vital move at B5 (variation 181, hash 52f8be39f508f326)
+owl_attack B4: 0 (attack failed)
+  (22 variations)
+(next variation: 203)]
+MA[bn][bo][co][bp][bq][cq][br][bs]
+(;B[an]C[A607c at A6 (variation 182, hash a2025ef686ba2790)
+owl_defend B6: WIN A5 (defense effective)
+  (2 variations)
+(next variation: 184)]
+MA[bn][bo][co][bp][bq][cq][br][bs];W[ao]C[vital move at A5 (variation 183, hash 7aa8c9878d1d1687)
+owl_attack B6: 0 (2 or more secure eyes)
+(next variation: 184)]
+MA[bn][ao][bo][co][bp][bq][cq][br][bs])
+(;B[cn]C[tactical attack at C6 (variation 184, hash 1a88ed19f739db36)
+owl_defend B6: WIN A6 (cached)
+(next variation: 185)]
+MA[bn][bo][co][bp][bq][cq][br][bs])
+(;B[ao]C[tactical attack at A5 (variation 185, hash da6ea1b2337fa756)
+owl_defend B6: WIN A6 (defense effective)
+  (2 variations)
+(next variation: 187)]
+MA[bn][bo][co][bp][bq][cq][br][bs];W[an]C[eat lunch at A6 (variation 186, hash 174ab21248f1e3c3)
+owl_attack B6: 0 (cached)
+(next variation: 187)]
+MA[an][bn][bo][co][bp][bq][cq][br][bs])
+(;B[ap]C[tactical attack at A4 (variation 187, hash a3ad938053a509f7)
+owl_defend B6: WIN A6 (cached)
+(next variation: 188)]
+MA[bn][bo][co][bp][bq][cq][br][bs])
+(;B[aq]C[tactical attack at A3 (variation 188, hash 25081a5f1a9f6240)
+owl_defend B6: WIN A2 (defense effective)
+  (11 variations)
+(next variation: 199)]
+MA[bn][bo][co][bp][bq][cq][br][bs];W[ar]C[D1378 at A2 (variation 189, hash 2c6064842928a1e9)
+owl_attack B6: 0 (attack failed)
+  (10 variations)
+(next variation: 199)]
+MA[bn][bo][co][bp][bq][cq][ar][br][bs]
+(;B[an]C[A607c at A6 (variation 190, hash dc9a844b5a9a755f)
+owl_defend B6: WIN A5 (defense effective)
+  (2 variations)
+(next variation: 192)]
+MA[bn][bo][co][bp][bq][cq][ar][br][bs];W[ao]C[marginal eye space at A5 (variation 191, hash 0430133a513d4448)
+owl_attack B6: 0 (2 or more secure eyes)
+(next variation: 192)]
+MA[bn][ao][bo][co][bp][bq][cq][ar][br][bs])
+(;B[cn]C[tactical attack at C6 (variation 192, hash 641037a42b1989f9)
+owl_defend B6: WIN A6 (defense effective)
+  (2 variations)
+(next variation: 194)]
+MA[bn][bo][co][bp][bq][cq][ar][br][bs];W[an]C[D604 at A6 (variation 193, hash a93424045097cd6c)
+owl_attack B6: 0 (2 or more secure eyes)
+(next variation: 194)]
+MA[an][bn][bo][co][bp][bq][cq][ar][br][bs])
+(;B[ao]C[tactical attack at A5 (variation 194, hash a4f67b0fef5ff599)
+owl_defend B6: WIN A6 (defense effective)
+  (2 variations)
+(next variation: 196)]
+MA[bn][bo][co][bp][bq][cq][ar][br][bs];W[an]C[eat lunch at A6 (variation 195, hash 69d268af94d1b10c)
+owl_attack B6: 0 (2 or more secure eyes)
+(next variation: 196)]
+MA[an][bn][bo][co][bp][bq][cq][ar][br][bs])
+(;B[ap]C[tactical attack at A4 (variation 196, hash dd35493d8f855b38)
+owl_defend B6: WIN PASS (2 or more secure eyes)
+(next variation: 197)]
+MA[bn][bo][co][bp][bq][cq][ar][br][bs])
+(;B[cs]C[tactical attack at C1 (variation 197, hash b706cd98954e0f6c)
+owl_defend B6: WIN A6 (defense effective)
+  (2 variations)
+(next variation: 199)]
+MA[bn][bo][co][bp][bq][cq][ar][br][bs];W[an]C[D604 at A6 (variation 198, hash 7a22de38eec04bf9)
+owl_attack B6: 0 (2 or more secure eyes)
+(next variation: 199)]
+MA[an][bn][bo][co][bp][bq][cq][ar][br][bs]))
+(;B[ar]C[tactical attack at A2 (variation 199, hash cceebc1adf9181a5)
+owl_defend B6: WIN A6 (defense effective)
+  (2 variations)
+(next variation: 201)]
+MA[bn][bo][co][bp][bq][cq][br][bs];W[an]C[vital move at A6 (variation 200, hash 01caafbaa41fc530)
+owl_attack B6: 0 (2 or more secure eyes)
+(next variation: 201)]
+MA[an][bn][bo][co][bp][bq][cq][br][bs])
+(;B[cs]C[tactical attack at C1 (variation 201, hash c99e1725496e5da3)
+owl_defend B6: WIN A6 (defense effective)
+  (2 variations)
+(next variation: 203)]
+MA[bn][bo][co][bp][bq][cq][br][bs];W[an]C[D604 at A6 (variation 202, hash 04ba048532e01936)
+owl_attack B6: 0 (2 or more secure eyes)
+(next variation: 203)]
+MA[an][bn][bo][co][bp][bq][cq][br][bs]))
+(;B[cs]C[tactical attack at C1 (variation 203, hash 14a55099b6650912)
+owl_defend B4: WIN B5 (defense effective)
+  (19 variations)
+(next variation: 222)]
+MA[bn][co][bp][bq][cq][br][bs];W[bo]C[vital move at B5 (variation 204, hash c3f95379a5b11d73)
+owl_attack B4: 0 (attack failed)
+  (18 variations)
+(next variation: 222)]
+MA[bn][bo][co][bp][bq][cq][br][bs]
+(;B[an]C[A607c at A6 (variation 205, hash 3303b3b6d603c9c5)
+owl_defend B6: WIN A5 (defense effective)
+  (2 variations)
+(next variation: 207)]
+MA[bn][bo][co][bp][bq][cq][br][bs];W[ao]C[vital move at A5 (variation 206, hash eba924c7dda4f8d2)
+owl_attack B6: 0 (2 or more secure eyes)
+(next variation: 207)]
+MA[bn][ao][bo][co][bp][bq][cq][br][bs])
+(;B[ar]C[A910 at A2 (variation 207, hash 5def515a8f286ff0)
+owl_defend B6: WIN A6 (defense effective)
+  (2 variations)
+(next variation: 209)]
+MA[bn][bo][co][bp][bq][cq][br][bs];W[an]C[vital move at A6 (variation 208, hash 90cb42faf4a62b65)
+owl_attack B6: 0 (2 or more secure eyes)
+(next variation: 209)]
+MA[an][bn][bo][co][bp][bq][cq][br][bs])
+(;B[cn]C[tactical attack at C6 (variation 209, hash 8b890059a7803563)
+owl_defend B6: WIN A6 (cached)
+(next variation: 210)]
+MA[bn][bo][co][bp][bq][cq][br][bs])
+(;B[ao]C[tactical attack at A5 (variation 210, hash 4b6f4cf263c64903)
+owl_defend B6: WIN A6 (defense effective)
+  (2 variations)
+(next variation: 212)]
+MA[bn][bo][co][bp][bq][cq][br][bs];W[an]C[eat lunch at A6 (variation 211, hash 864b5f5218480d96)
+owl_attack B6: 0 (cached)
+(next variation: 212)]
+MA[an][bn][bo][co][bp][bq][cq][br][bs])
+(;B[ap]C[tactical attack at A4 (variation 212, hash 32ac7ec0031ce7a2)
+owl_defend B6: WIN A6 (cached)
+(next variation: 213)]
+MA[bn][bo][co][bp][bq][cq][br][bs])
+(;B[aq]C[tactical attack at A3 (variation 213, hash b409f71f4a268c15)
+owl_defend B6: WIN A2 (defense effective)
+  (8 variations)
+(next variation: 221)]
+MA[bn][bo][co][bp][bq][cq][br][bs];W[ar]C[vital move at A2 (variation 214, hash b706cd98954e0f6c)
+owl_attack B6: 0 (attack failed)
+  (7 variations)
+(next variation: 221)]
+MA[bn][bo][co][bp][bq][cq][ar][br][bs]
+(;B[an]C[A607c at A6 (variation 215, hash 47fc2d57e6fcdbda)
+owl_defend B6: WIN A5 (defense effective)
+  (2 variations)
+(next variation: 217)]
+MA[bn][bo][co][bp][bq][cq][ar][br][bs];W[ao]C[marginal eye space at A5 (variation 216, hash 9f56ba26ed5beacd)
+owl_attack B6: 0 (2 or more secure eyes)
+(next variation: 217)]
+MA[bn][ao][bo][co][bp][bq][cq][ar][br][bs])
+(;B[cn]C[tactical attack at C6 (variation 217, hash ff769eb8977f277c)
+owl_defend B6: WIN A6 (cached)
+(next variation: 218)]
+MA[bn][bo][co][bp][bq][cq][ar][br][bs])
+(;B[ao]C[tactical attack at A5 (variation 218, hash 3f90d21353395b1c)
+owl_defend B6: WIN A6 (defense effective)
+  (2 variations)
+(next variation: 220)]
+MA[bn][bo][co][bp][bq][cq][ar][br][bs];W[an]C[eat lunch at A6 (variation 219, hash f2b4c1b328b71f89)
+owl_attack B6: 0 (cached)
+(next variation: 220)]
+MA[an][bn][bo][co][bp][bq][cq][ar][br][bs])
+(;B[ap]C[tactical attack at A4 (variation 220, hash 4653e02133e3f5bd)
+owl_defend B6: WIN PASS (2 or more secure eyes)
+(next variation: 221)]
+MA[bn][bo][co][bp][bq][cq][ar][br][bs]))
+(;B[as]C[tactical attack at A1 (variation 221, hash c99e1725496e5da3)
+owl_defend B6: WIN A6 (cached)
+(next variation: 222)]
+MA[bn][bo][co][bp][bq][cq][br][bs])))

@@ -1,0 +1,6 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[rd][sd][re][rf][qf][pg][og][nf][ne][nd][nc][ob][pc][lb][lc]AW[pb][oc][od][oe][qd][qe][qc][rc]C[黑先劫杀白。]
+
+(;B[qb];W[pd]C[没办法，只能接上];B[pa];W[rb];B[pc]C[黑棋成功做劫。恭喜答对！])
+(;B[rb];W[nb]C[此下法在本局部不行，我已简单做活。])
+(;B[qa];W[nb]C[看似手筋，但我早已算准。];B[oa];W[na]C[你失败了，重来吧！])
+(;B[pa];W[qb]C[你想得也太简单了，我轻松做活。]))

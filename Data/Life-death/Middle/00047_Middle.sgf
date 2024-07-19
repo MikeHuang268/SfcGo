@@ -1,0 +1,7 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[rr][sr][qs][qq][pq][oq][nq][mq][mp][mo][nn][on][oo]AW[rs][rq][qr][pr][or][nr][mr][lq][lp][lo][mm][nm][om][pn][qn][qm][np]
+
+(;B[ro];W[sq]C[飞是不易觉察的妙手。];B[rp];W[ss]C[我只有吃掉再说。];B[sp];W[rr]C[好象有点不妙！];B[rn];W[rm]C[我要完了------];B[sn]C[恭喜答对！佩服！])
+(;B[rp];W[ro]C[我尖靠，你怎么办？]
+(;B[qo];W[sp]C[打吃！];B[sq];W[po]C[再冲打！];B[qp];W[sn]C[哈哈，成打劫活了，不能 算赢，再想想！])
+(;B[po];W[qp]C[我打吃你怎么办？];B[sq];W[qo]C[嘻嘻，是假眼，重来吧！]))
+(;B[qp];W[ro]C[我跳你怎么办？];B[rp];W[sp]C[嘻嘻，是假眼，重来吧！]))

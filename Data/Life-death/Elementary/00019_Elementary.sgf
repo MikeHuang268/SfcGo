@@ -1,0 +1,10 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[hc][hb][fc][fb][ec][dd][ee][ce][be][bd][ba]AW[bc][cc][cd][cb][dc][eb][fa][ib][ic]C[黑先]
+
+(;B[da];W[ea]C[杀棋只此一手]
+(;B[ga];W[db]
+(;B[ab];W[ac];B[ca]C[您答对了！])
+(;B[ca];W[ab]C[双活失败]))
+(;B[ab];W[ha]C[不行啊]))
+(;B[ga];W[da]C[打劫失败])
+(;B[ca];W[da];B[ga];W[bb]C[打劫活，不成功])
+(;B[ab];W[ha]C[渡过了]))

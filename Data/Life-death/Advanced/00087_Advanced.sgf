@@ -1,0 +1,4 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[rd][re][qd][pd][od][oc][mc][mb][na]AW[nb][ob][pc][qc][rc][rb]C[黑先劫]
+
+(;B[sc]C[扳];W[sb];B[pa];W[qa]C[你点是好手，我走这里呢？];B[ra]C[手筋];W[pb];B[qb]C[成劫。恭喜答对])
+(;B[pa]C[你这就点吗？];W[qa]C[我这么尖好象就活了？];B[pb];W[qb]C[你断，我打吃，你怎么办？];B[sc];W[sb]C[失败。请重新开始]))

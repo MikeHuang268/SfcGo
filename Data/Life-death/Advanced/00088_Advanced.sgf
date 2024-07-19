@@ -1,0 +1,4 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[sc][rd][re][qe][pe][oe][nd][ne][nb][oa][mb]AW[ob][oc][pd][od][qd][rc][rb][pa]C[黑先白死]
+
+(;B[qb]C[好。];W[sb]C[我挡];B[qc]C[断];W[sd];B[qa];W[na]C[你长，我吃，你怎么办？];B[ra]C[曲好。];W[pb];B[nc]C[“金鸡独立”杀白。恭喜答对])
+(;B[pb]C[断，好吗？];W[na]C[我吃，你怎么走？];B[qb];W[sb]C[你长我挡。];B[qa];W[oa]C[失败。请重新开始]))

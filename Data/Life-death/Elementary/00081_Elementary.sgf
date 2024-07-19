@@ -1,0 +1,5 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[qb][pb][pd][od][nd][me][mb][le][kd][id][jd][ib][hb]AW[ob][nb][nc][md][ld][lb][jb][jc]C[黑先白死]
+
+(;B[ma]C[立，是攻击白棋愚形三角的急所。];W[kc];B[oa]C[白成“独眼龙”死。恭喜答对！])
+(;B[kc]C[冲，破眼。];W[ma]C[我补一手可以做活了。];B[kb];W[oa]C[白棋活。请重新开始。])
+(;B[ja]C[扳，不是杀棋的地方。];W[ma]C[我补在这里依然可以做活。];B[oa];W[ka]C[我活了，请再做一遍。]))

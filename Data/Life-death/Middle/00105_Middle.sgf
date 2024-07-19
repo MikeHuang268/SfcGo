@@ -1,0 +1,5 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[pb][ob][od][oe][mf][lf][kf][je][jd][jc][ib][ia]AW[ke][le][kd][kc][jb][ja][md][nd][nc][nb]C[黑先劫]
+
+(;B[mb]C[不易察觉的急所];W[lb];B[la]C[好次序];W[mc];B[na])
+(;B[la]C[局部的急所，看似手筋];W[kb]C[白粘后，眼位扩大];B[na];W[mb];B[ma];W[lc]C[简单活棋，黑失败！重来吧！])
+(;B[lb]C[似是而非的一手];W[mb]C[强硬];B[lc];W[kb];B[la]C[白先手公活！黑失败！]))

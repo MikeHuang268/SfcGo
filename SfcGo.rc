@@ -1,0 +1,1714 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#ifndef APSTUDIO_INVOKED
+#include "targetver.h"
+#endif
+#include "afxres.h"
+#include "verrsrc.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (Simplified, China) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#ifndef APSTUDIO_INVOKED\r\n"
+    "#include ""targetver.h""\r\n"
+    "#endif\r\n"
+    "#include ""afxres.h""\r\n"
+    "#include ""verrsrc.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#include ""res\\SfcGo.rc2""  // ·? Microsoft Visual C++ ±à?-μ?×ê?′\r\n"
+    "#include ""l.CHS\\afxres.rc""      // ±ê×?×é?t\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON                    "res\\SfcGo.ico"
+
+IDR_SfcGoTYPE           ICON                    "res\\SfcGoDoc.ico"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDR_MAINFRAME           BITMAP                  "res\\Toolbar.bmp"
+
+IDB_BLACKSTONE          BITMAP                  "Sys\\blackstone.bmp"
+
+IDB_STONE               BITMAP                  "Sys\\stone.bmp"
+
+IDB_WHITESTONE          BITMAP                  "Sys\\whitestone.bmp"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Toolbar
+//
+
+IDR_MAINFRAME TOOLBAR 16, 15
+BEGIN
+    BUTTON      ID_FILE_NEW
+    BUTTON      ID_FILE_OPEN
+    BUTTON      ID_FILE_SAVE
+    SEPARATOR
+    BUTTON      ID_EDIT_CUT
+    BUTTON      ID_EDIT_COPY
+    BUTTON      ID_EDIT_PASTE
+    SEPARATOR
+    BUTTON      ID_FILE_PRINT
+    BUTTON      ID_APP_ABOUT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MAINFRAME MENU
+BEGIN
+    POPUP "文件(&F)"
+    BEGIN
+        MENUITEM "新建(&N)\tCtrl+N",              ID_FILE_NEW
+        MENUITEM "打开(&O)...\tCtrl+O",           ID_FILE_OPEN
+        MENUITEM "关闭(&C)",                      ID_FILE_CLOSE
+        MENUITEM SEPARATOR
+        MENUITEM "最近的文件",                       ID_FILE_MRU_FILE1, GRAYED
+        MENUITEM SEPARATOR
+        MENUITEM "退出(&X)",                      ID_APP_EXIT
+    END
+    POPUP "视图(&V)"
+    BEGIN
+        MENUITEM "工具栏(&T)",                     ID_VIEW_TOOLBAR
+        MENUITEM "状态栏(&S)",                     ID_VIEW_STATUS_BAR
+    END
+    POPUP "棋局"
+    BEGIN
+        MENUITEM "人机对弈",                        ID_M_PLAY
+        MENUITEM "死活分析",                        ID_M_SH
+        MENUITEM "序盘研究",                        ID_M_PERSISTENCESTUDY
+    END
+    POPUP "帮助(&H)"
+    BEGIN
+        MENUITEM "关于 SfcGo(&A)...",             ID_APP_ABOUT
+    END
+END
+
+IDR_SfcGoTYPE MENU
+BEGIN
+    POPUP "文件(&F)"
+    BEGIN
+        MENUITEM "新建(&N)\tCtrl+N",              ID_FILE_NEW
+        MENUITEM "打开(&O)...\tCtrl+O",           ID_FILE_OPEN
+        MENUITEM "关闭(&C)",                      ID_FILE_CLOSE
+        MENUITEM "保存(&S)\tCtrl+S",              ID_FILE_SAVE
+        MENUITEM "另存为(&A)...",                  ID_FILE_SAVE_AS
+        MENUITEM SEPARATOR
+        MENUITEM "最近的文件",                       ID_FILE_MRU_FILE1, GRAYED
+        MENUITEM SEPARATOR
+        MENUITEM "退出(&X)",                      ID_APP_EXIT
+    END
+    POPUP "编辑(&E)"
+    BEGIN
+        MENUITEM "撤消(&U)\tCtrl+Z",              ID_EDIT_UNDO
+        MENUITEM SEPARATOR
+        MENUITEM "剪切(&T)\tCtrl+X",              ID_EDIT_CUT
+        MENUITEM "复制(&C)\tCtrl+C",              ID_EDIT_COPY
+        MENUITEM "粘贴(&P)\tCtrl+V",              ID_EDIT_PASTE
+    END
+    POPUP "视图(&V)"
+    BEGIN
+        MENUITEM "工具栏(&T)",                     ID_VIEW_TOOLBAR
+        MENUITEM "状态栏(&S)",                     ID_VIEW_STATUS_BAR
+        MENUITEM "复盘",                          ID_VIEW_RECALL
+    END
+    POPUP "窗口(&W)"
+    BEGIN
+        MENUITEM "新建窗口(&N)",                    ID_WINDOW_NEW
+        MENUITEM "层叠(&C)",                      ID_WINDOW_CASCADE
+        MENUITEM "平铺(&T)",                      ID_WINDOW_TILE_HORZ
+        MENUITEM "排列图标(&A)",                    ID_WINDOW_ARRANGE
+    END
+    POPUP "设置"
+    BEGIN
+        POPUP "棋盘"
+        BEGIN
+            MENUITEM "9X9",                         ID_M_BOARD9, CHECKED
+            MENUITEM "13X13",                       32773, CHECKED
+            MENUITEM "19X19",                       32774, CHECKED
+        END
+        MENUITEM "贴目",                          32780
+        POPUP "显示"
+        BEGIN
+            MENUITEM "棋盘坐标",                        ID_M_COORD, CHECKED
+            MENUITEM "落子动画",                        ID_M_ANIMATE, CHECKED
+            MENUITEM "电脑思考进度",                      ID_M_THINKPROGRESS, CHECKED
+            MENUITEM SEPARATOR
+            MENUITEM "胜率图表",                        ID_M_SHOWWINRATE, CHECKED
+            MENUITEM "分析记录",                        ID_M_SHOWANA, CHECKED
+            MENUITEM "着手记录",                        ID_M_SHOWMOVEREC, CHECKED
+            MENUITEM "对局信息及按钮栏",                    ID_M_SHOWINFO, CHECKED
+        END
+        POPUP "音效"
+        BEGIN
+            MENUITEM "落子声",                         ID_M_PUTSTONESOUND, CHECKED
+            MENUITEM "提子声",                         ID_M_CAPTURESTONESOUND, CHECKED
+            MENUITEM "拾子声",                         ID_M_PICKSTONESOUND, CHECKED
+            MENUITEM "按钟声",                         ID_M_PUSHCLOCKSOUND, CHECKED
+            MENUITEM "读秒声",                         ID_M_BYOSOUND, CHECKED
+        END
+        POPUP "语言"
+        BEGIN
+            MENUITEM "English",                     ID_M_LE, CHECKED
+            MENUITEM "中文",                          ID_M_LZ, CHECKED
+        END
+    END
+    POPUP "帮助(&H)"
+    BEGIN
+        MENUITEM "关于 SfcGo(&A)...",             ID_APP_ABOUT
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_MAINFRAME ACCELERATORS
+BEGIN
+    "N",            ID_FILE_NEW,            VIRTKEY, CONTROL
+    "O",            ID_FILE_OPEN,           VIRTKEY, CONTROL
+    "S",            ID_FILE_SAVE,           VIRTKEY, CONTROL
+    "Z",            ID_EDIT_UNDO,           VIRTKEY, CONTROL
+    "X",            ID_EDIT_CUT,            VIRTKEY, CONTROL
+    "C",            ID_EDIT_COPY,           VIRTKEY, CONTROL
+    "V",            ID_EDIT_PASTE,          VIRTKEY, CONTROL
+    VK_BACK,        ID_EDIT_UNDO,           VIRTKEY, ALT
+    VK_DELETE,      ID_EDIT_CUT,            VIRTKEY, SHIFT
+    VK_INSERT,      ID_EDIT_COPY,           VIRTKEY, CONTROL
+    VK_INSERT,      ID_EDIT_PASTE,          VIRTKEY, SHIFT
+    VK_F6,          ID_NEXT_PANE,           VIRTKEY 
+    VK_F6,          ID_PREV_PANE,           VIRTKEY, SHIFT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOGEX 0, 0, 170, 86
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "关于 腾飞围棋"
+FONT 9, "MS Shell Dlg", 0, 0, 0x1
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,14,14,20,20
+    LTEXT           "腾飞围棋，2.0 版",IDC_STATIC,42,14,114,8,SS_NOPREFIX
+    LTEXT           "开发者：黄腾飞、黄云涛。\n仅供研究、学习所用，请勿用于商业用途。",IDC_STATIC,42,26,114,26
+    DEFPUSHBUTTON   "确定",IDOK,113,65,50,14,WS_GROUP
+END
+
+IDD_SFCGO_FORM DIALOGEX 0, 0, 387, 200
+STYLE DS_ABSALIGN | DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_CAPTION
+EXSTYLE WS_EX_COMPOSITED
+FONT 9, "MS Shell Dlg", 0, 0, 0x1
+BEGIN
+    CONTROL         "黑棋",IDC_RADBLACK,"Button",BS_AUTORADIOBUTTON | NOT WS_VISIBLE | WS_GROUP,204,60,30,10,WS_EX_TRANSPARENT
+    CONTROL         "白棋",IDC_RADWHITE,"Button",BS_AUTORADIOBUTTON | NOT WS_VISIBLE,246,60,30,10,WS_EX_TRANSPARENT
+    COMBOBOX        IDC_CMBMB,204,30,60,135,CBS_DROPDOWNLIST | NOT WS_VISIBLE | WS_VSCROLL | WS_TABSTOP,WS_EX_TRANSPARENT
+    PUSHBUTTON      "摆  子",IDC_BTNBZ,7,146,50,14,BS_NOTIFY | NOT WS_VISIBLE
+    PUSHBUTTON      "开始分析",IDC_BTNANA,56,146,50,14,NOT WS_VISIBLE
+    PUSHBUTTON      "退  出",IDC_BTNEXIT,7,163,50,14,NOT WS_VISIBLE
+    LTEXT           "就绪",IDC_STAT,7,126,114,8,NOT WS_VISIBLE | NOT WS_GROUP
+    GROUPBOX        "",IDC_GRPPANEL,138,12,150,96,BS_RIGHT | BS_FLAT | NOT WS_VISIBLE
+    EDITTEXT        IDC_OUTPUT,15,14,112,99,ES_MULTILINE | ES_AUTOVSCROLL | ES_AUTOHSCROLL | NOT WS_VISIBLE | WS_VSCROLL,WS_EX_STATICEDGE
+    CONTROL         "交替",IDC_RADINTURN,"Button",BS_AUTORADIOBUTTON | BS_RIGHT | BS_TOP | NOT WS_VISIBLE,204,84,30,10,WS_EX_TRANSPARENT
+    PUSHBUTTON      "形势判断",IDC_BTNSCORE,58,161,50,14,NOT WS_VISIBLE
+    LTEXT           "解题目标：",IDC_STATTARGET,150,30,48,12,NOT WS_VISIBLE,WS_EX_TRANSPARENT
+    LTEXT           "摆子方式：",IDC_STATPUTSTONE,150,60,35,8,NOT WS_VISIBLE,WS_EX_TRANSPARENT
+END
+
+IDD_SETKOMI DIALOGEX 0, 0, 127, 63
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION
+CAPTION "设置贴目"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "确定",IDOK,7,42,50,14
+    PUSHBUTTON      "取消",IDCANCEL,70,42,50,14
+    EDITTEXT        IDC_EDIT1,7,15,113,14,ES_AUTOHSCROLL
+END
+
+IDD_NEWGAME DIALOGEX 0, 0, 297, 278
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "新的对局"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "确定",IDOK,78,258,50,14
+    PUSHBUTTON      "取消",IDCANCEL,174,258,50,14
+    GROUPBOX        "黑棋",IDC_STATIC,7,7,131,107
+    CONTROL         "人",IDC_RADHUMAN1,"Button",BS_AUTORADIOBUTTON | WS_GROUP,18,24,24,10
+    CONTROL         "电脑",IDC_RADCOMPUTER1,"Button",BS_AUTORADIOBUTTON,18,42,32,10
+    LTEXT           "棋力：",IDC_STATIC,24,60,42,8,0,WS_EX_RIGHT
+    LTEXT           "思考时长：",IDC_STATIC,24,78,42,8,0,WS_EX_RIGHT
+    COMBOBOX        IDC_CMBLEVEL1,71,58,48,116,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_CMBTIME1,71,76,48,68,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    GROUPBOX        "白棋",IDC_STATIC,156,6,131,108
+    CONTROL         "人",IDC_RADHUMAN2,"Button",BS_AUTORADIOBUTTON | WS_GROUP,179,23,24,10
+    CONTROL         "电脑",IDC_RADCOMPUTER2,"Button",BS_AUTORADIOBUTTON,179,41,32,10
+    LTEXT           "棋力：",IDC_STATIC,185,60,42,8,0,WS_EX_RIGHT
+    LTEXT           "思考时长：",IDC_STATIC,185,78,42,8,0,WS_EX_RIGHT
+    COMBOBOX        IDC_CMBLEVEL2,232,57,48,135,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_CMBTIME2,232,76,48,94,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "棋盘：",IDC_STATIC,83,129,25,8
+    LTEXT           "贴目：",IDC_STATIC,155,128,25,8
+    LTEXT           "让子：",IDC_STATIC,227,129,25,8
+    COMBOBOX        IDC_CMBBOARDSIZE,108,126,36,83,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_CMBKOMI,180,126,36,120,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_CMBHANDICAP,252,126,36,116,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    GROUPBOX        "显示设置",IDC_STATIC,6,150,282,40
+    CONTROL         "棋盘坐标",IDC_CHKCOORD,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,18,168,48,10
+    CONTROL         "落子动画",IDC_CHKANIMAT,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,114,168,48,10
+    CONTROL         "电脑思考进度",IDC_CHKTHINKPROGRAM,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,204,168,64,10
+    GROUPBOX        "音效设置",IDC_STATIC,6,204,282,40
+    CONTROL         "落子声",IDC_CHKPUTSTONG,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,12,222,40,10
+    CONTROL         "提子声",IDC_CHKCAPTURE,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,66,222,40,10
+    CONTROL         "拾子声",IDC_CHKPICKSTONE,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,120,222,40,10
+    CONTROL         "按钟声",IDC_CHKPUSHCLOCK,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,174,222,40,10
+    CONTROL         "读秒声",IDC_CHKBYO,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,234,222,40,10
+    LTEXT           "规则：",IDC_STATIC,7,128,24,8
+    COMBOBOX        IDC_CMBRULE,36,126,36,84,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_CMBENGINE1,72,96,48,68,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "引擎选择：",IDC_STATIC,24,97,42,8,0,WS_EX_RIGHT
+    COMBOBOX        IDC_CMBENGINE2,232,96,48,94,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "引擎选择：",IDC_STATIC,185,97,42,8,0,WS_EX_RIGHT
+    COMBOBOX        IDC_CMBCOMBAT,72,24,48,48,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "    自由对局的胜负不影响你的等级，请放松练习。",IDC_STATTS,216,12,66,36
+END
+
+IDD_NOTIFY DIALOGEX 0, 0, 170, 52
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION
+EXSTYLE WS_EX_TOPMOST
+CAPTION "提示信息"
+FONT 16, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    EDITTEXT        IDC_EDIT1,24,18,144,14,WS_DISABLED | NOT WS_BORDER | NOT WS_TABSTOP
+END
+
+IDD_MOVEREC DIALOGEX 0, 0, 185, 93
+STYLE DS_SETFONT | WS_CHILD | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_PALETTEWINDOW
+FONT 9, "宋体", 400, 0, 0x0
+BEGIN
+    LTEXT           "TODO: 布局窗体视图",IDC_STATIC,55,42,74,8
+END
+
+IDD_ANAREC DIALOGEX 0, 0, 185, 93
+STYLE DS_SETFONT | WS_CHILD | WS_CAPTION
+EXSTYLE WS_EX_TOPMOST | WS_EX_TOOLWINDOW
+FONT 9, "宋体", 400, 0, 0x0
+BEGIN
+    LTEXT           "TODO: 布局窗体视图",IDC_STATIC,55,42,74,8
+END
+
+IDD_WINRATE DIALOGEX 0, 0, 187, 94
+STYLE DS_SETFONT | WS_CHILD | WS_CAPTION | WS_SYSMENU
+FONT 9, "宋体", 400, 0, 0x0
+BEGIN
+    LTEXT           "TODO: 布局窗体视图",IDC_STATIC,55,42,74,8
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 2,0,0,1
+ PRODUCTVERSION 2,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x40004L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404b0"
+        BEGIN
+            VALUE "CompanyName", "黄腾飞，黄云涛"
+            VALUE "FileDescription", "SfcGo"
+            VALUE "FileVersion", "2.0.0.1"
+            VALUE "InternalName", "SfcGo.exe"
+            VALUE "LegalCopyright", " (C) 黄腾飞，黄云涛。保留所有权利。"
+            VALUE "OriginalFilename", "SfcGo.exe"
+            VALUE "ProductName", "腾飞围棋"
+            VALUE "ProductVersion", "2.0.0.1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 1200
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 163
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 79
+    END
+
+    IDD_SFCGO_FORM, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 379
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 193
+    END
+
+    IDD_SETKOMI, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 120
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 56
+    END
+
+    IDD_NEWGAME, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 290
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 271
+    END
+
+    IDD_NOTIFY, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 163
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 45
+    END
+
+    IDD_MOVEREC, DIALOG
+    BEGIN
+    END
+
+    IDD_ANAREC, DIALOG
+    BEGIN
+    END
+
+    IDD_WINRATE, DIALOG
+    BEGIN
+        RIGHTMARGIN, 185
+        BOTTOMMARGIN, 93
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog Info
+//
+
+IDD_SFCGO_FORM DLGINIT
+BEGIN
+    IDC_CMBMB, 0x403, 5, 0
+0xdaba, 0xc8cf, "\000" 
+    IDC_CMBMB, 0x403, 5, 0
+0xd7b0, 0xc8cf, "\000" 
+    IDC_CMBMB, 0x403, 7, 0
+0xdaba, 0xc8cf, 0xeebb, "\000" 
+    IDC_CMBMB, 0x403, 9, 0
+0xdaba, 0xc8cf, 0xd7b0, 0xc0cb, "\000" 
+    IDC_CMBMB, 0x403, 9, 0
+0xdaba, 0xc8cf, 0xd9bd, 0xeebb, "\000" 
+    IDC_CMBMB, 0x403, 11, 0
+0xdaba, 0xc8cf, 0xd7b0, 0xd9bd, 0xc0cb, "\000" 
+    IDC_CMBMB, 0x403, 7, 0
+0xd7b0, 0xc8cf, 0xeebb, "\000" 
+    IDC_CMBMB, 0x403, 9, 0
+0xd7b0, 0xc8cf, 0xdaba, 0xc0cb, "\000" 
+    IDC_CMBMB, 0x403, 9, 0
+0xd7b0, 0xc8cf, 0xd9bd, 0xeebb, "\000" 
+    IDC_CMBMB, 0x403, 11, 0
+0xd7b0, 0xc8cf, 0xdaba, 0xd9bd, 0xc0cb, "\000" 
+    IDC_CMBMB, 0x403, 9, 0
+0xdaba, 0xc8cf, 0xa5b9, 0xd7b0, "\000" 
+    IDC_CMBMB, 0x403, 9, 0
+0xdaba, 0xc8cf, 0xc0b7, 0xd8ca, "\000" 
+    IDC_CMBMB, 0x403, 9, 0
+0xd7b0, 0xc8cf, 0xa5b9, 0xdaba, "\000" 
+    IDC_CMBMB, 0x403, 9, 0
+0xd7b0, 0xc8cf, 0xc0b7, 0xd8ca, "\000" 
+    0
+END
+
+IDD_NEWGAME DLGINIT
+BEGIN
+    IDC_CMBLEVEL1, 0x403, 5, 0
+0xe5ce, 0xb6bc, "\000" 
+    IDC_CMBLEVEL1, 0x403, 5, 0
+0xc4cb, 0xb6bc, "\000" 
+    IDC_CMBLEVEL1, 0x403, 5, 0
+0xfdc8, 0xb6bc, "\000" 
+    IDC_CMBLEVEL1, 0x403, 5, 0
+0xfeb6, 0xb6bc, "\000" 
+    IDC_CMBLEVEL1, 0x403, 5, 0
+0xbbd2, 0xb6bc, "\000" 
+    IDC_CMBLEVEL1, 0x403, 9, 0
+0xb5d2, 0xe0d3, 0xbbd2, 0xceb6, "\000" 
+    IDC_CMBLEVEL1, 0x403, 9, 0
+0xb5d2, 0xe0d3, 0xfeb6, 0xceb6, "\000" 
+    IDC_CMBLEVEL1, 0x403, 9, 0
+0xb5d2, 0xe0d3, 0xfdc8, 0xceb6, "\000" 
+    IDC_CMBLEVEL1, 0x403, 9, 0
+0xb5d2, 0xe0d3, 0xc4cb, 0xceb6, "\000" 
+    IDC_CMBLEVEL1, 0x403, 9, 0
+0xb5d2, 0xe0d3, 0xe5ce, 0xceb6, "\000" 
+    IDC_CMBLEVEL1, 0x403, 9, 0
+0xb5d2, 0xe0d3, 0xf9c1, 0xceb6, "\000" 
+    IDC_CMBLEVEL1, 0x403, 9, 0
+0xb5d2, 0xe0d3, 0xdfc6, 0xceb6, "\000" 
+    IDC_CMBLEVEL1, 0x403, 9, 0
+0xb0d6, 0xb5d2, 0xf5b3, 0xceb6, "\000" 
+    IDC_CMBLEVEL1, 0x403, 9, 0
+0xb0d6, 0xb5d2, 0xfeb6, 0xceb6, "\000" 
+    IDC_CMBLEVEL1, 0x403, 9, 0
+0xb0d6, 0xb5d2, 0xfdc8, 0xceb6, "\000" 
+    IDC_CMBLEVEL1, 0x403, 9, 0
+0xb0d6, 0xb5d2, 0xc4cb, 0xceb6, "\000" 
+    IDC_CMBLEVEL1, 0x403, 9, 0
+0xb0d6, 0xb5d2, 0xe5ce, 0xceb6, "\000" 
+    IDC_CMBLEVEL1, 0x403, 9, 0
+0xb0d6, 0xb5d2, 0xf9c1, 0xceb6, "\000" 
+    IDC_CMBLEVEL1, 0x403, 9, 0
+0xb0d6, 0xb5d2, 0xdfc6, 0xceb6, "\000" 
+    IDC_CMBLEVEL1, 0x403, 9, 0
+0xb0d6, 0xb5d2, 0xcbb0, 0xceb6, "\000" 
+    IDC_CMBLEVEL1, 0x403, 9, 0
+0xb0d6, 0xb5d2, 0xc5be, 0xceb6, "\000" 
+    IDC_CMBLEVEL1, 0x403, 5, 0
+0xfbc3, 0xcbc8, "\000" 
+    IDC_CMBLEVEL1, 0x403, 5, 0
+0xe5c6, 0xa5ca, "\000" 
+    IDC_CMBLEVEL1, 0x403, 7, 0
+0xe5c6, 0xe9c1, 0xf5cd, "\000" 
+    IDC_CMBTIME1, 0x403, 4, 0
+0xc335, 0x00eb, 
+    IDC_CMBTIME1, 0x403, 5, 0
+0x3531, 0xebc3, "\000" 
+    IDC_CMBTIME1, 0x403, 5, 0
+0x3033, 0xebc3, "\000" 
+    IDC_CMBTIME1, 0x403, 5, 0
+0x3036, 0xebc3, "\000" 
+    IDC_CMBTIME1, 0x403, 5, 0
+0x3039, 0xebc3, "\000" 
+    IDC_CMBTIME1, 0x403, 6, 0
+0x3231, 0xc330, 0x00eb, 
+    IDC_CMBLEVEL2, 0x403, 5, 0
+0xe5ce, 0xb6bc, "\000" 
+    IDC_CMBLEVEL2, 0x403, 5, 0
+0xc4cb, 0xb6bc, "\000" 
+    IDC_CMBLEVEL2, 0x403, 5, 0
+0xfdc8, 0xb6bc, "\000" 
+    IDC_CMBLEVEL2, 0x403, 5, 0
+0xfeb6, 0xb6bc, "\000" 
+    IDC_CMBLEVEL2, 0x403, 5, 0
+0xbbd2, 0xb6bc, "\000" 
+    IDC_CMBLEVEL2, 0x403, 9, 0
+0xb5d2, 0xe0d3, 0xbbd2, 0xceb6, "\000" 
+    IDC_CMBLEVEL2, 0x403, 9, 0
+0xb5d2, 0xe0d3, 0xfeb6, 0xceb6, "\000" 
+    IDC_CMBLEVEL2, 0x403, 9, 0
+0xb5d2, 0xe0d3, 0xfdc8, 0xceb6, "\000" 
+    IDC_CMBLEVEL2, 0x403, 9, 0
+0xb5d2, 0xe0d3, 0xc4cb, 0xceb6, "\000" 
+    IDC_CMBLEVEL2, 0x403, 9, 0
+0xb5d2, 0xe0d3, 0xe5ce, 0xceb6, "\000" 
+    IDC_CMBLEVEL2, 0x403, 9, 0
+0xb5d2, 0xe0d3, 0xf9c1, 0xceb6, "\000" 
+    IDC_CMBLEVEL2, 0x403, 9, 0
+0xb5d2, 0xe0d3, 0xdfc6, 0xceb6, "\000" 
+    IDC_CMBLEVEL2, 0x403, 9, 0
+0xb0d6, 0xb5d2, 0xf5b3, 0xceb6, "\000" 
+    IDC_CMBLEVEL2, 0x403, 9, 0
+0xb0d6, 0xb5d2, 0xfeb6, 0xceb6, "\000" 
+    IDC_CMBLEVEL2, 0x403, 9, 0
+0xb0d6, 0xb5d2, 0xfdc8, 0xceb6, "\000" 
+    IDC_CMBLEVEL2, 0x403, 9, 0
+0xb0d6, 0xb5d2, 0xc4cb, 0xceb6, "\000" 
+    IDC_CMBLEVEL2, 0x403, 9, 0
+0xb0d6, 0xb5d2, 0xe5ce, 0xceb6, "\000" 
+    IDC_CMBLEVEL2, 0x403, 9, 0
+0xb0d6, 0xb5d2, 0xf9c1, 0xceb6, "\000" 
+    IDC_CMBLEVEL2, 0x403, 9, 0
+0xb0d6, 0xb5d2, 0xdfc6, 0xceb6, "\000" 
+    IDC_CMBLEVEL2, 0x403, 9, 0
+0xb0d6, 0xb5d2, 0xcbb0, 0xceb6, "\000" 
+    IDC_CMBLEVEL2, 0x403, 9, 0
+0xb0d6, 0xb5d2, 0xc5be, 0xceb6, "\000" 
+    IDC_CMBLEVEL2, 0x403, 5, 0
+0xfbc3, 0xcbc8, "\000" 
+    IDC_CMBLEVEL2, 0x403, 5, 0
+0xe5c6, 0xa5ca, "\000" 
+    IDC_CMBLEVEL2, 0x403, 7, 0
+0xe5c6, 0xe9c1, 0xf5cd, "\000" 
+    IDC_CMBTIME2, 0x403, 4, 0
+0xc335, 0x00eb, 
+    IDC_CMBTIME2, 0x403, 5, 0
+0x3531, 0xebc3, "\000" 
+    IDC_CMBTIME2, 0x403, 5, 0
+0x3033, 0xebc3, "\000" 
+    IDC_CMBTIME2, 0x403, 5, 0
+0x3036, 0xebc3, "\000" 
+    IDC_CMBTIME2, 0x403, 5, 0
+0x3039, 0xebc3, "\000" 
+    IDC_CMBTIME2, 0x403, 6, 0
+0x3231, 0xc330, 0x00eb, 
+    IDC_CMBBOARDSIZE, 0x403, 5, 0
+0x3931, 0xb7c2, "\000" 
+    IDC_CMBBOARDSIZE, 0x403, 5, 0
+0x3331, 0xb7c2, "\000" 
+    IDC_CMBBOARDSIZE, 0x403, 4, 0
+0xc239, 0x00b7, 
+    IDC_CMBKOMI, 0x403, 4, 0
+0x312d, 0x0030, 
+    IDC_CMBKOMI, 0x403, 5, 0
+0x392d, 0x352e, "\000" 
+    IDC_CMBKOMI, 0x403, 3, 0
+0x392d, "\000" 
+    IDC_CMBKOMI, 0x403, 5, 0
+0x382d, 0x352e, "\000" 
+    IDC_CMBKOMI, 0x403, 3, 0
+0x382d, "\000" 
+    IDC_CMBKOMI, 0x403, 5, 0
+0x372d, 0x352e, "\000" 
+    IDC_CMBKOMI, 0x403, 3, 0
+0x372d, "\000" 
+    IDC_CMBKOMI, 0x403, 5, 0
+0x362d, 0x352e, "\000" 
+    IDC_CMBKOMI, 0x403, 3, 0
+0x362d, "\000" 
+    IDC_CMBKOMI, 0x403, 5, 0
+0x352d, 0x352e, "\000" 
+    IDC_CMBKOMI, 0x403, 3, 0
+0x352d, "\000" 
+    IDC_CMBKOMI, 0x403, 5, 0
+0x342d, 0x352e, "\000" 
+    IDC_CMBKOMI, 0x403, 3, 0
+0x342d, "\000" 
+    IDC_CMBKOMI, 0x403, 5, 0
+0x332d, 0x352e, "\000" 
+    IDC_CMBKOMI, 0x403, 3, 0
+0x332d, "\000" 
+    IDC_CMBKOMI, 0x403, 5, 0
+0x322d, 0x352e, "\000" 
+    IDC_CMBKOMI, 0x403, 3, 0
+0x322d, "\000" 
+    IDC_CMBKOMI, 0x403, 5, 0
+0x312d, 0x352e, "\000" 
+    IDC_CMBKOMI, 0x403, 3, 0
+0x312d, "\000" 
+    IDC_CMBKOMI, 0x403, 6, 0
+0xb02d, 0xc4eb, 0x00bf, 
+    IDC_CMBKOMI, 0x403, 3, 0
+0xdece, "\000" 
+    IDC_CMBKOMI, 0x403, 5, 0
+0xebb0, 0xbfc4, "\000" 
+    IDC_CMBKOMI, 0x403, 2, 0
+0x0031, 
+    IDC_CMBKOMI, 0x403, 4, 0
+0x2e31, 0x0035, 
+    IDC_CMBKOMI, 0x403, 2, 0
+0x0032, 
+    IDC_CMBKOMI, 0x403, 4, 0
+0x2e32, 0x0035, 
+    IDC_CMBKOMI, 0x403, 2, 0
+0x0033, 
+    IDC_CMBKOMI, 0x403, 4, 0
+0x2e33, 0x0035, 
+    IDC_CMBKOMI, 0x403, 2, 0
+0x0034, 
+    IDC_CMBKOMI, 0x403, 4, 0
+0x2e34, 0x0035, 
+    IDC_CMBKOMI, 0x403, 2, 0
+0x0035, 
+    IDC_CMBKOMI, 0x403, 4, 0
+0x2e35, 0x0035, 
+    IDC_CMBKOMI, 0x403, 2, 0
+0x0036, 
+    IDC_CMBKOMI, 0x403, 4, 0
+0x2e36, 0x0035, 
+    IDC_CMBKOMI, 0x403, 2, 0
+0x0037, 
+    IDC_CMBKOMI, 0x403, 4, 0
+0x2e37, 0x0035, 
+    IDC_CMBKOMI, 0x403, 2, 0
+0x0038, 
+    IDC_CMBKOMI, 0x403, 4, 0
+0x2e38, 0x0035, 
+    IDC_CMBKOMI, 0x403, 2, 0
+0x0039, 
+    IDC_CMBKOMI, 0x403, 4, 0
+0x2e39, 0x0035, 
+    IDC_CMBKOMI, 0x403, 3, 0
+0x3031, "\000" 
+    IDC_CMBHANDICAP, 0x403, 5, 0
+0xa5bb, 0xc8cf, "\000" 
+    IDC_CMBHANDICAP, 0x403, 5, 0
+0xa8b6, 0xc8cf, "\000" 
+    IDC_CMBHANDICAP, 0x403, 5, 0
+0xfeb6, 0xd3d7, "\000" 
+    IDC_CMBHANDICAP, 0x403, 5, 0
+0xfdc8, 0xd3d7, "\000" 
+    IDC_CMBHANDICAP, 0x403, 5, 0
+0xc4cb, 0xd3d7, "\000" 
+    IDC_CMBHANDICAP, 0x403, 5, 0
+0xe5ce, 0xd3d7, "\000" 
+    IDC_CMBHANDICAP, 0x403, 5, 0
+0xf9c1, 0xd3d7, "\000" 
+    IDC_CMBHANDICAP, 0x403, 5, 0
+0xdfc6, 0xd3d7, "\000" 
+    IDC_CMBHANDICAP, 0x403, 5, 0
+0xcbb0, 0xd3d7, "\000" 
+    IDC_CMBHANDICAP, 0x403, 5, 0
+0xc5be, 0xd3d7, "\000" 
+    IDC_CMBRULE, 0x403, 5, 0
+0xd0d6, 0xfab9, "\000" 
+    IDC_CMBRULE, 0x403, 5, 0
+0xd5c8, 0xbeb1, "\000" 
+    IDC_CMBRULE, 0x403, 5, 0
+0xabba, 0xfab9, "\000" 
+    IDC_CMBCOMBAT, 0x403, 9, 0
+0xd4d7, 0xc9d3, 0xd4b6, 0xd6be, "\000" 
+    IDC_CMBCOMBAT, 0x403, 7, 0
+0xf4cc, 0xbdd5, 0xfcc8, "\000" 
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// AFX_DIALOG_LAYOUT
+//
+
+IDD_SFCGO_FORM AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+IDD_NEWGAME AFX_DIALOG_LAYOUT
+BEGIN
+    0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    100, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0
+END
+
+IDD_NOTIFY AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+IDD_MOVEREC AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+IDD_ANAREC AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+IDD_WINRATE AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+IDD_ABOUTBOX AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Cursor
+//
+
+IDC_CURSOR2             CURSOR                  "res\\blackstone.cur"
+
+IDC_CURSOR1             CURSOR                  "res\\cursor1.cur"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE
+BEGIN
+    IDP_OLE_INIT_FAILED     "OLE 初始化失败。请确保 OLE 库是正确的版本。"
+    IDP_SOCKETS_INIT_FAILED "Windows 套接字初始化失败。"
+END
+
+STRINGTABLE
+BEGIN
+    IDR_MAINFRAME           "SfcGo"
+    IDR_SfcGoTYPE           "\nSfcGo\nSfcGo\n\n\nSfcGo.Document\nSfcGo.Document"
+END
+
+STRINGTABLE
+BEGIN
+    AFX_IDS_APP_TITLE       "腾飞围棋"
+    AFX_IDS_IDLEMESSAGE     "就绪"
+END
+
+STRINGTABLE
+BEGIN
+    ID_INDICATOR_EXT        "EXT"
+    ID_INDICATOR_CAPS       "CAP"
+    ID_INDICATOR_NUM        "NUM"
+    ID_INDICATOR_SCRL       "SCRL"
+    ID_INDICATOR_OVR        "OVR"
+    ID_INDICATOR_REC        "REC"
+END
+
+STRINGTABLE
+BEGIN
+    ID_FILE_NEW             "创建新文档\n新建"
+    ID_FILE_OPEN            "打开现有文档\n打开"
+    ID_FILE_CLOSE           "关闭活动文档\n关闭"
+    ID_FILE_SAVE            "保存活动文档\n保存"
+    ID_FILE_SAVE_AS         "用新名称保存活动文档\n另存为"
+END
+
+STRINGTABLE
+BEGIN
+    ID_APP_ABOUT            "显示程序信息、版本号和版权信息\n关于"
+    ID_APP_EXIT             "退出应用程序；提示保存文档\n退出"
+END
+
+STRINGTABLE
+BEGIN
+    ID_FILE_MRU_FILE1       "打开此文档"
+    ID_FILE_MRU_FILE2       "打开此文档"
+    ID_FILE_MRU_FILE3       "打开此文档"
+    ID_FILE_MRU_FILE4       "打开此文档"
+    ID_FILE_MRU_FILE5       "打开此文档"
+    ID_FILE_MRU_FILE6       "打开此文档"
+    ID_FILE_MRU_FILE7       "打开此文档"
+    ID_FILE_MRU_FILE8       "打开此文档"
+    ID_FILE_MRU_FILE9       "打开此文档"
+    ID_FILE_MRU_FILE10      "打开此文档"
+    ID_FILE_MRU_FILE11      "打开此文档"
+    ID_FILE_MRU_FILE12      "打开此文档"
+    ID_FILE_MRU_FILE13      "打开此文档"
+    ID_FILE_MRU_FILE14      "打开此文档"
+    ID_FILE_MRU_FILE15      "打开此文档"
+    ID_FILE_MRU_FILE16      "打开此文档"
+END
+
+STRINGTABLE
+BEGIN
+    ID_NEXT_PANE            "切换到下一个窗格\n下一窗格"
+    ID_PREV_PANE            "切换回上一个窗格\n上一窗格"
+END
+
+STRINGTABLE
+BEGIN
+    ID_WINDOW_NEW           "为活动文档打开另一个窗口\n新建窗口"
+    ID_WINDOW_ARRANGE       "在窗口底部排列图标\n排列图标"
+    ID_WINDOW_CASCADE       "以重叠方式排列窗口\n层叠窗口"
+    ID_WINDOW_TILE_HORZ     "以不重叠的平铺方式排列窗口\n平铺窗口"
+    ID_WINDOW_TILE_VERT     "以不重叠的平铺方式排列窗口\n平铺窗口"
+    ID_WINDOW_SPLIT         "将活动窗口拆分为多个窗格\n拆分"
+END
+
+STRINGTABLE
+BEGIN
+    ID_EDIT_CLEAR           "清除所选内容\n清除"
+    ID_EDIT_CLEAR_ALL       "清除全部内容\n全部清除"
+    ID_EDIT_COPY            "复制所选内容，将其放入剪贴板\n复制"
+    ID_EDIT_CUT             "剪切所选内容，将其放入剪贴板\n剪切"
+    ID_EDIT_FIND            "查找指定的文本\n查找"
+    ID_EDIT_PASTE           "插入剪贴板内容\n粘贴"
+    ID_EDIT_REPEAT          "重复上一操作\n重复"
+    ID_EDIT_REPLACE         "用其他文本替换特定的文本\n替换"
+    ID_EDIT_SELECT_ALL      "选定整个文档\n全选"
+    ID_EDIT_UNDO            "撤消上一操作\n撤消"
+    ID_EDIT_REDO            "重做上次撤消的操作\n重做"
+END
+
+STRINGTABLE
+BEGIN
+    ID_VIEW_TOOLBAR         "显示或隐藏工具栏\n切换工具栏"
+    ID_VIEW_STATUS_BAR      "显示或隐藏状态栏\n切换状态栏"
+END
+
+STRINGTABLE
+BEGIN
+    AFX_IDS_SCSIZE          "更改窗口大小"
+    AFX_IDS_SCMOVE          "更改窗口位置"
+    AFX_IDS_SCMINIMIZE      "将窗口缩小成图标"
+    AFX_IDS_SCMAXIMIZE      "将窗口放大到最大尺寸"
+    AFX_IDS_SCNEXTWINDOW    "切换到下一个文档窗口"
+    AFX_IDS_SCPREVWINDOW    "切换到上一个文档窗口"
+    AFX_IDS_SCCLOSE         "关闭活动窗口并提示保存文档"
+END
+
+STRINGTABLE
+BEGIN
+    AFX_IDS_SCRESTORE       "将窗口恢复到正常大小"
+    AFX_IDS_SCTASKLIST      "激活任务列表"
+    AFX_IDS_MDICHILD        "激活此窗口"
+END
+
+#endif    // Chinese (Simplified, China) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// English (United States) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MAINFRAME MENU
+BEGIN
+    POPUP "File(&F)"
+    BEGIN
+        MENUITEM "New file(&N)\tCtrl+N",        ID_FILE_NEW
+        MENUITEM "Open file(&O)...\tCtrl+O",    ID_FILE_OPEN
+        MENUITEM "Close file(&C)",              ID_FILE_CLOSE
+        MENUITEM SEPARATOR
+        MENUITEM "Recent files",                ID_FILE_MRU_FILE1, GRAYED
+        MENUITEM SEPARATOR
+        MENUITEM "Exit(&X)",                    ID_APP_EXIT
+    END
+    POPUP "View(&V)"
+    BEGIN
+        MENUITEM "Toolbar(&T)",                 ID_VIEW_TOOLBAR
+        MENUITEM "Status bar(&S)",              ID_VIEW_STATUS_BAR
+    END
+    POPUP "Game"
+    BEGIN
+        MENUITEM "Play with computer",          ID_M_PLAY
+        MENUITEM "Tesuji analysis",             ID_M_SH
+        MENUITEM "Persistence study",           ID_M_PERSISTENCESTUDY
+    END
+    POPUP "Help(&H)"
+    BEGIN
+        MENUITEM "About SfcGo(&A)...",          ID_APP_ABOUT
+    END
+END
+
+IDR_SfcGoTYPE MENU
+BEGIN
+    POPUP "File(&F)"
+    BEGIN
+        MENUITEM "New file(&N)\tCtrl+N",        ID_FILE_NEW
+        MENUITEM "Open file(&O)...\tCtrl+O",    ID_FILE_OPEN
+        MENUITEM "Close file(&C)",              ID_FILE_CLOSE
+        MENUITEM "Save file(&S)\tCtrl+S",       ID_FILE_SAVE
+        MENUITEM "Save as(&A)...",              ID_FILE_SAVE_AS
+        MENUITEM SEPARATOR
+        MENUITEM "Recent file",                 ID_FILE_MRU_FILE1, GRAYED
+        MENUITEM SEPARATOR
+        MENUITEM "Exit(&X)",                    ID_APP_EXIT
+    END
+    POPUP "Edit(&E)"
+    BEGIN
+        MENUITEM "Undo(&U)\tCtrl+Z",            ID_EDIT_UNDO
+        MENUITEM SEPARATOR
+        MENUITEM "Cut(&T)\tCtrl+X",             ID_EDIT_CUT
+        MENUITEM "Copy(&C)\tCtrl+C",            ID_EDIT_COPY
+        MENUITEM "Paste(&P)\tCtrl+V",           ID_EDIT_PASTE
+    END
+    POPUP "View(&V)"
+    BEGIN
+        MENUITEM "Toolbar(&T)",                 ID_VIEW_TOOLBAR
+        MENUITEM "Status bar(&S)",              ID_VIEW_STATUS_BAR
+        MENUITEM "Recall",                      ID_VIEW_RECALL
+    END
+    POPUP "Window(&W)"
+    BEGIN
+        MENUITEM "New window(&N)",              ID_WINDOW_NEW
+        MENUITEM "Cascade(&C)",                 ID_WINDOW_CASCADE
+        MENUITEM "Horz(&T)",                    ID_WINDOW_TILE_HORZ
+        MENUITEM "Arrange(&A)",                 ID_WINDOW_ARRANGE
+    END
+    POPUP "Settings"
+    BEGIN
+        POPUP "Go board"
+        BEGIN
+            MENUITEM "9X9",                         ID_M_BOARD9, CHECKED
+            MENUITEM "13X13",                       32773, CHECKED
+            MENUITEM "19X19",                       32774, CHECKED
+        END
+        MENUITEM "Komi",                        32780
+        POPUP "Display"
+        BEGIN
+            MENUITEM "Coord",                       ID_M_COORD, CHECKED
+            MENUITEM "Animation",                   ID_M_ANIMATE, CHECKED
+            MENUITEM "Thinking progress",           ID_M_THINKPROGRESS, CHECKED
+            MENUITEM SEPARATOR
+            MENUITEM "Win rate chart",              ID_M_SHOWWINRATE, CHECKED
+            MENUITEM "Analysis record",             ID_M_SHOWANA, CHECKED
+            MENUITEM "Move record",                 ID_M_SHOWMOVEREC, CHECKED
+            MENUITEM "Game info and menu",          ID_M_SHOWINFO, CHECKED
+        END
+        POPUP "Sound"
+        BEGIN
+            MENUITEM "Put stone sound",             ID_M_PUTSTONESOUND, CHECKED
+            MENUITEM "Capture stone sound",         ID_M_CAPTURESTONESOUND, CHECKED
+            MENUITEM "Pick stone sound",            ID_M_PICKSTONESOUND, CHECKED
+            MENUITEM "Push clock sound",            ID_M_PUSHCLOCKSOUND, CHECKED
+            MENUITEM "Byo sound",                   ID_M_BYOSOUND, CHECKED
+        END
+        POPUP "Language"
+        BEGIN
+            MENUITEM "English",                     ID_M_LE, CHECKED
+            MENUITEM "Chinese",                     ID_M_LZ, CHECKED
+        END
+    END
+    POPUP "Help(&H)"
+    BEGIN
+        MENUITEM "About SfcGo(&A)...",          ID_APP_ABOUT
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOGEX 0, 0, 170, 86
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "About SfcGo"
+FONT 9, "MS Shell Dlg", 0, 0, 0x1
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,14,14,20,20
+    LTEXT           "SfcGo, Version 2.0",IDC_STATIC,42,14,114,8,SS_NOPREFIX
+    LTEXT           "Developer: Mike Huang, Sam Huang.\nFor research and learning purposes only, do not use for commercial purposes.",IDC_STATIC,42,26,114,37
+    DEFPUSHBUTTON   "OK",IDOK,113,65,50,14,WS_GROUP
+END
+
+IDD_NEWGAME DIALOGEX 0, 0, 297, 278
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "New game"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,78,258,50,14
+    PUSHBUTTON      "CANCEL",IDCANCEL,174,258,50,14
+    GROUPBOX        "Black",IDC_STATIC,7,7,131,107
+    CONTROL         "Human",IDC_RADHUMAN1,"Button",BS_AUTORADIOBUTTON | WS_GROUP,18,24,38,10
+    CONTROL         "Computer",IDC_RADCOMPUTER1,"Button",BS_AUTORADIOBUTTON,18,42,47,10
+    LTEXT           "Level:",IDC_STATIC,24,60,42,8,0,WS_EX_RIGHT
+    LTEXT           "Time limit:",IDC_STATIC,24,78,42,8,0,WS_EX_RIGHT
+    COMBOBOX        IDC_CMBLEVEL1,71,58,48,116,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_CMBTIME1,71,76,48,68,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    GROUPBOX        "White",IDC_STATIC,156,6,131,108
+    CONTROL         "Human",IDC_RADHUMAN2,"Button",BS_AUTORADIOBUTTON | WS_GROUP,179,23,38,10
+    CONTROL         "Computer",IDC_RADCOMPUTER2,"Button",BS_AUTORADIOBUTTON,179,41,47,10
+    LTEXT           "Level:",IDC_STATIC,185,60,42,8,0,WS_EX_RIGHT
+    LTEXT           "Time limit:",IDC_STATIC,185,78,42,8,0,WS_EX_RIGHT
+    COMBOBOX        IDC_CMBLEVEL2,232,57,48,135,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_CMBTIME2,232,76,48,94,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "Board:",IDC_STATIC,83,129,22,8
+    LTEXT           "Komi:",IDC_STATIC,155,128,18,8
+    LTEXT           "Handicap:",IDC_STATIC,217,129,43,8
+    COMBOBOX        IDC_CMBBOARDSIZE,108,126,36,83,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_CMBKOMI,177,126,36,120,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_CMBHANDICAP,252,126,36,116,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    GROUPBOX        "Display settings",IDC_STATIC,6,150,282,40
+    CONTROL         "Coord",IDC_CHKCOORD,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,18,168,35,10
+    CONTROL         "Animation",IDC_CHKANIMAT,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,114,168,47,10
+    CONTROL         "Thinking progress",IDC_CHKTHINKPROGRAM,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,204,168,72,10
+    GROUPBOX        "Sound settings",IDC_STATIC,6,204,282,40
+    CONTROL         "Put stone",IDC_CHKPUTSTONG,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,12,222,47,10
+    CONTROL         "Capture",IDC_CHKCAPTURE,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,66,222,42,10
+    CONTROL         "Pick stone",IDC_CHKPICKSTONE,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,120,222,48,10
+    CONTROL         "Push clock",IDC_CHKPUSHCLOCK,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,174,222,49,10
+    CONTROL         "Byo sound",IDC_CHKBYO,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,234,222,49,10
+    LTEXT           "Rule:",IDC_STATIC,7,128,24,8
+    COMBOBOX        IDC_CMBRULE,36,126,36,84,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_CMBENGINE1,72,96,48,68,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "Engine:",IDC_STATIC,24,97,42,8,0,WS_EX_RIGHT
+    COMBOBOX        IDC_CMBENGINE2,232,96,48,94,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "Engine:",IDC_STATIC,185,97,42,8,0,WS_EX_RIGHT
+    COMBOBOX        IDC_CMBCOMBAT,72,24,48,48,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "Free match does not affect your rank, relax and injoy it!",IDC_STATTS,219,15,66,27
+END
+
+IDD_NOTIFY DIALOGEX 0, 0, 170, 52
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION
+EXSTYLE WS_EX_TOPMOST
+CAPTION "SfcGo Notify"
+FONT 16, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    EDITTEXT        IDC_EDIT1,24,18,144,14,WS_DISABLED | NOT WS_BORDER | NOT WS_TABSTOP
+END
+
+IDD_SETKOMI DIALOGEX 0, 0, 127, 63
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION
+CAPTION "Set komi"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,7,42,50,14
+    PUSHBUTTON      "CANCEL",IDCANCEL,70,42,50,14
+    EDITTEXT        IDC_EDIT1,7,15,113,14,ES_AUTOHSCROLL
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 2,0,0,1
+ PRODUCTVERSION 2,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x40004L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404b0"
+        BEGIN
+            VALUE "CompanyName", "Mike Huang, Sam Huang"
+            VALUE "FileDescription", "SfcGo"
+            VALUE "FileVersion", "2.0.0.1"
+            VALUE "InternalName", "SfcGo.exe"
+            VALUE "LegalCopyright", " (C) Mke Huang, Sam Huang. All rights reserved."
+            VALUE "OriginalFilename", "SfcGo.exe"
+            VALUE "ProductName", "SfcGo"
+            VALUE "ProductVersion", "2.0.0.1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 1200
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 163
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 79
+    END
+
+    IDD_NEWGAME, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 290
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 271
+    END
+
+    IDD_NOTIFY, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 163
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 45
+    END
+
+    IDD_SETKOMI, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 120
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 56
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog Info
+//
+
+IDD_NEWGAME DLGINIT
+BEGIN
+    IDC_CMBLEVEL1, 0x403, 6, 0
+0x2035, 0x796b, 0x0075, 
+    IDC_CMBLEVEL1, 0x403, 6, 0
+0x2034, 0x796b, 0x0075, 
+    IDC_CMBLEVEL1, 0x403, 6, 0
+0x2033, 0x796b, 0x0075, 
+    IDC_CMBLEVEL1, 0x403, 6, 0
+0x2032, 0x796b, 0x0075, 
+    IDC_CMBLEVEL1, 0x403, 6, 0
+0x2031, 0x796b, 0x0075, 
+    IDC_CMBLEVEL1, 0x403, 7, 0
+0x3141, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL1, 0x403, 7, 0
+0x3241, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL1, 0x403, 7, 0
+0x3341, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL1, 0x403, 7, 0
+0x3441, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL1, 0x403, 7, 0
+0x3541, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL1, 0x403, 7, 0
+0x3641, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL1, 0x403, 7, 0
+0x3741, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL1, 0x403, 7, 0
+0x3150, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL1, 0x403, 7, 0
+0x3250, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL1, 0x403, 7, 0
+0x3250, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL1, 0x403, 7, 0
+0x3450, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL1, 0x403, 7, 0
+0x3550, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL1, 0x403, 7, 0
+0x3650, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL1, 0x403, 7, 0
+0x3750, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL1, 0x403, 7, 0
+0x3850, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL1, 0x403, 7, 0
+0x3950, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL1, 0x403, 7, 0
+0x654d, 0x6a69, 0x6e69, "\000" 
+    IDC_CMBLEVEL1, 0x403, 12, 0
+0x7247, 0x6e61, 0x6d64, 0x7361, 0x6574, 0x0072, 
+    IDC_CMBLEVEL1, 0x403, 7, 0
+0x6f47, 0x4720, 0x646f, "\000" 
+    IDC_CMBTIME1, 0x403, 10, 0
+0x2035, 0x6553, 0x6f63, 0x646e, 0x0073, 
+    IDC_CMBTIME1, 0x403, 11, 0
+0x3531, 0x5320, 0x6365, 0x6e6f, 0x7364, "\000" 
+    IDC_CMBTIME1, 0x403, 11, 0
+0x3033, 0x5320, 0x6365, 0x6e6f, 0x7364, "\000" 
+    IDC_CMBTIME1, 0x403, 11, 0
+0x3036, 0x5320, 0x6365, 0x6e6f, 0x7364, "\000" 
+    IDC_CMBTIME1, 0x403, 11, 0
+0x3039, 0x5320, 0x6365, 0x6e6f, 0x7364, "\000" 
+    IDC_CMBTIME1, 0x403, 12, 0
+0x3231, 0x2030, 0x6553, 0x6f63, 0x646e, 0x0073, 
+    IDC_CMBLEVEL2, 0x403, 6, 0
+0x2035, 0x796b, 0x0075, 
+    IDC_CMBLEVEL2, 0x403, 6, 0
+0x2034, 0x796b, 0x0075, 
+    IDC_CMBLEVEL2, 0x403, 6, 0
+0x2033, 0x796b, 0x0075, 
+    IDC_CMBLEVEL2, 0x403, 6, 0
+0x2032, 0x796b, 0x0075, 
+    IDC_CMBLEVEL2, 0x403, 6, 0
+0x2031, 0x796b, 0x0075, 
+    IDC_CMBLEVEL2, 0x403, 7, 0
+0x3141, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL2, 0x403, 7, 0
+0x3241, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL2, 0x403, 7, 0
+0x3341, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL2, 0x403, 7, 0
+0x3441, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL2, 0x403, 7, 0
+0x3541, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL2, 0x403, 7, 0
+0x3641, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL2, 0x403, 7, 0
+0x3741, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL2, 0x403, 7, 0
+0x3150, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL2, 0x403, 7, 0
+0x3250, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL2, 0x403, 7, 0
+0x3250, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL2, 0x403, 7, 0
+0x3450, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL2, 0x403, 7, 0
+0x3550, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL2, 0x403, 7, 0
+0x3650, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL2, 0x403, 7, 0
+0x3750, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL2, 0x403, 7, 0
+0x3850, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL2, 0x403, 7, 0
+0x3950, 0x6420, 0x6e61, "\000" 
+    IDC_CMBLEVEL2, 0x403, 7, 0
+0x654d, 0x6a69, 0x6e69, "\000" 
+    IDC_CMBLEVEL2, 0x403, 12, 0
+0x7247, 0x6e61, 0x6d64, 0x7361, 0x6574, 0x0072, 
+    IDC_CMBLEVEL2, 0x403, 7, 0
+0x6f47, 0x4720, 0x646f, "\000" 
+    IDC_CMBTIME2, 0x403, 10, 0
+0x2035, 0x6553, 0x6f63, 0x646e, 0x0073, 
+    IDC_CMBTIME2, 0x403, 11, 0
+0x3531, 0x5320, 0x6365, 0x6e6f, 0x7364, "\000" 
+    IDC_CMBTIME2, 0x403, 11, 0
+0x3033, 0x5320, 0x6365, 0x6e6f, 0x7364, "\000" 
+    IDC_CMBTIME2, 0x403, 11, 0
+0x3036, 0x5320, 0x6365, 0x6e6f, 0x7364, "\000" 
+    IDC_CMBTIME2, 0x403, 11, 0
+0x3039, 0x5320, 0x6365, 0x6e6f, 0x7364, "\000" 
+    IDC_CMBTIME2, 0x403, 12, 0
+0x3231, 0x2030, 0x6553, 0x6f63, 0x646e, 0x0073, 
+    IDC_CMBBOARDSIZE, 0x403, 3, 0
+0x3931, "\000" 
+    IDC_CMBBOARDSIZE, 0x403, 3, 0
+0x3331, "\000" 
+    IDC_CMBBOARDSIZE, 0x403, 2, 0
+0x0039, 
+    IDC_CMBKOMI, 0x403, 4, 0
+0x312d, 0x0030, 
+    IDC_CMBKOMI, 0x403, 5, 0
+0x392d, 0x352e, "\000" 
+    IDC_CMBKOMI, 0x403, 3, 0
+0x392d, "\000" 
+    IDC_CMBKOMI, 0x403, 5, 0
+0x382d, 0x352e, "\000" 
+    IDC_CMBKOMI, 0x403, 3, 0
+0x382d, "\000" 
+    IDC_CMBKOMI, 0x403, 5, 0
+0x372d, 0x352e, "\000" 
+    IDC_CMBKOMI, 0x403, 3, 0
+0x372d, "\000" 
+    IDC_CMBKOMI, 0x403, 5, 0
+0x362d, 0x352e, "\000" 
+    IDC_CMBKOMI, 0x403, 3, 0
+0x362d, "\000" 
+    IDC_CMBKOMI, 0x403, 5, 0
+0x352d, 0x352e, "\000" 
+    IDC_CMBKOMI, 0x403, 3, 0
+0x352d, "\000" 
+    IDC_CMBKOMI, 0x403, 5, 0
+0x342d, 0x352e, "\000" 
+    IDC_CMBKOMI, 0x403, 3, 0
+0x342d, "\000" 
+    IDC_CMBKOMI, 0x403, 5, 0
+0x332d, 0x352e, "\000" 
+    IDC_CMBKOMI, 0x403, 3, 0
+0x332d, "\000" 
+    IDC_CMBKOMI, 0x403, 5, 0
+0x322d, 0x352e, "\000" 
+    IDC_CMBKOMI, 0x403, 3, 0
+0x322d, "\000" 
+    IDC_CMBKOMI, 0x403, 5, 0
+0x312d, 0x352e, "\000" 
+    IDC_CMBKOMI, 0x403, 3, 0
+0x312d, "\000" 
+    IDC_CMBKOMI, 0x403, 5, 0
+0x302d, 0x352e, "\000" 
+    IDC_CMBKOMI, 0x403, 2, 0
+0x0030, 
+    IDC_CMBKOMI, 0x403, 4, 0
+0x2e30, 0x0035, 
+    IDC_CMBKOMI, 0x403, 2, 0
+0x0031, 
+    IDC_CMBKOMI, 0x403, 4, 0
+0x2e31, 0x0035, 
+    IDC_CMBKOMI, 0x403, 2, 0
+0x0032, 
+    IDC_CMBKOMI, 0x403, 4, 0
+0x2e32, 0x0035, 
+    IDC_CMBKOMI, 0x403, 2, 0
+0x0033, 
+    IDC_CMBKOMI, 0x403, 4, 0
+0x2e33, 0x0035, 
+    IDC_CMBKOMI, 0x403, 2, 0
+0x0034, 
+    IDC_CMBKOMI, 0x403, 4, 0
+0x2e34, 0x0035, 
+    IDC_CMBKOMI, 0x403, 2, 0
+0x0035, 
+    IDC_CMBKOMI, 0x403, 4, 0
+0x2e35, 0x0035, 
+    IDC_CMBKOMI, 0x403, 2, 0
+0x0036, 
+    IDC_CMBKOMI, 0x403, 4, 0
+0x2e36, 0x0035, 
+    IDC_CMBKOMI, 0x403, 2, 0
+0x0037, 
+    IDC_CMBKOMI, 0x403, 4, 0
+0x2e37, 0x0035, 
+    IDC_CMBKOMI, 0x403, 2, 0
+0x0038, 
+    IDC_CMBKOMI, 0x403, 4, 0
+0x2e38, 0x0035, 
+    IDC_CMBKOMI, 0x403, 2, 0
+0x0039, 
+    IDC_CMBKOMI, 0x403, 4, 0
+0x2e39, 0x0035, 
+    IDC_CMBKOMI, 0x403, 3, 0
+0x3031, "\000" 
+    IDC_CMBHANDICAP, 0x403, 5, 0
+0x7645, 0x6e65, "\000" 
+    IDC_CMBHANDICAP, 0x403, 13, 0
+0x6c41, 0x6177, 0x7379, 0x6620, 0x7269, 0x7473, "\000" 
+    IDC_CMBHANDICAP, 0x403, 9, 0
+0x2032, 0x7473, 0x6e6f, 0x7365, "\000" 
+    IDC_CMBHANDICAP, 0x403, 9, 0
+0x2033, 0x7473, 0x6e6f, 0x7365, "\000" 
+    IDC_CMBHANDICAP, 0x403, 9, 0
+0x2034, 0x7473, 0x6e6f, 0x7365, "\000" 
+    IDC_CMBHANDICAP, 0x403, 9, 0
+0x2035, 0x7473, 0x6e6f, 0x7365, "\000" 
+    IDC_CMBHANDICAP, 0x403, 9, 0
+0x2036, 0x7473, 0x6e6f, 0x7365, "\000" 
+    IDC_CMBHANDICAP, 0x403, 9, 0
+0x2037, 0x7473, 0x6e6f, 0x7365, "\000" 
+    IDC_CMBHANDICAP, 0x403, 9, 0
+0x2038, 0x7473, 0x6e6f, 0x7365, "\000" 
+    IDC_CMBHANDICAP, 0x403, 9, 0
+0x2039, 0x7473, 0x6e6f, 0x7365, "\000" 
+    IDC_CMBRULE, 0x403, 8, 0
+0x6843, 0x6e69, 0x7365, 0x0065, 
+    IDC_CMBRULE, 0x403, 9, 0
+0x614a, 0x6170, 0x656e, 0x6573, "\000" 
+    IDC_CMBRULE, 0x403, 7, 0
+0x6f4b, 0x6572, 0x6e61, "\000" 
+    IDC_CMBCOMBAT, 0x403, 11, 0
+0x7246, 0x6565, 0x6d20, 0x7461, 0x6863, "\000" 
+    IDC_CMBCOMBAT, 0x403, 10, 0
+0x6843, 0x6c61, 0x656c, 0x676e, 0x0065, 
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// AFX_DIALOG_LAYOUT
+//
+
+IDD_ABOUTBOX AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+IDD_NEWGAME AFX_DIALOG_LAYOUT
+BEGIN
+    0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    100, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0,
+    0, 0, 0, 0
+END
+
+IDD_NOTIFY AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+IDD_SETKOMI AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE
+BEGIN
+    IDP_OLE_INIT_FAILED     "OLE initialize failed."
+    IDP_SOCKETS_INIT_FAILED "Windows sockets initialize failed."
+END
+
+STRINGTABLE
+BEGIN
+    IDR_MAINFRAME           "SfcGo"
+    IDR_SfcGoTYPE           "\nSfcGo\nSfcGo\n\n\nSfcGo.Document\nSfcGo.Document"
+END
+
+STRINGTABLE
+BEGIN
+    AFX_IDS_APP_TITLE       "SfcGo"
+    AFX_IDS_IDLEMESSAGE     "Ready"
+END
+
+STRINGTABLE
+BEGIN
+    ID_INDICATOR_EXT        "EXT"
+    ID_INDICATOR_CAPS       "CAP"
+    ID_INDICATOR_NUM        "NUM"
+    ID_INDICATOR_SCRL       "SCRL"
+    ID_INDICATOR_OVR        "OVR"
+    ID_INDICATOR_REC        "REC"
+END
+
+STRINGTABLE
+BEGIN
+    ID_FILE_NEW             "New file\nNew"
+    ID_FILE_OPEN            "Open file\nOpen"
+    ID_FILE_CLOSE           "Close file\nClose"
+    ID_FILE_SAVE            "Save file\nSave"
+    ID_FILE_SAVE_AS         "Save file with a new name\nSave as"
+END
+
+STRINGTABLE
+BEGIN
+    ID_APP_ABOUT            "Display program information, version number, and copyright information\nAbout"
+    ID_APP_EXIT             "Exit the application program; Prompt to save document\nExit"
+END
+
+STRINGTABLE
+BEGIN
+    ID_FILE_MRU_FILE1       "Open recent file"
+    ID_FILE_MRU_FILE2       "Open this file"
+    ID_FILE_MRU_FILE3       "Open this file"
+    ID_FILE_MRU_FILE4       "Open this file"
+    ID_FILE_MRU_FILE5       "Open this file"
+    ID_FILE_MRU_FILE6       "Open this file"
+    ID_FILE_MRU_FILE7       "Open this file"
+    ID_FILE_MRU_FILE8       "Open this file"
+    ID_FILE_MRU_FILE9       "Open this file"
+    ID_FILE_MRU_FILE10      "Open this file"
+    ID_FILE_MRU_FILE11      "Open this file"
+    ID_FILE_MRU_FILE12      "Open this file"
+    ID_FILE_MRU_FILE13      "Open this file"
+    ID_FILE_MRU_FILE14      "Open this file"
+    ID_FILE_MRU_FILE15      "Open this file"
+    ID_FILE_MRU_FILE16      "Open this file"
+END
+
+STRINGTABLE
+BEGIN
+    ID_NEXT_PANE            "Switch to the next pane\nNext pane"
+    ID_PREV_PANE            "Switch back to the previous pane\nPrevious pane"
+END
+
+STRINGTABLE
+BEGIN
+    ID_WINDOW_NEW           "New window\nNew windo"
+    ID_WINDOW_ARRANGE       "Arrange window\nArrange window"
+    ID_WINDOW_CASCADE       "Cascade window\nCascade window"
+    ID_WINDOW_TILE_HORZ     "Horz window\nHorz window"
+    ID_WINDOW_TILE_VERT     "Vert window\nVert window"
+    ID_WINDOW_SPLIT         "Split window\nSplit"
+END
+
+STRINGTABLE
+BEGIN
+    ID_EDIT_CLEAR           "Clear selected\nClear"
+    ID_EDIT_CLEAR_ALL       "Clear all\nClear all"
+    ID_EDIT_COPY            "Copy selected and put it on the clipboard\nCopy"
+    ID_EDIT_CUT             "Cut selected and put int on the clipboard\nCut"
+    ID_EDIT_FIND            "Find text\nFind"
+    ID_EDIT_PASTE           "Paste from clipboard\nPaste"
+    ID_EDIT_REPEAT          "Repeat last opration\nRepeat"
+    ID_EDIT_REPLACE         "Replace\nReplace"
+    ID_EDIT_SELECT_ALL      "Select all\nSelect all"
+    ID_EDIT_UNDO            "Undo\nUndo"
+    ID_EDIT_REDO            "Redo\nRedo"
+END
+
+STRINGTABLE
+BEGIN
+    ID_VIEW_TOOLBAR         "Show or hide the toolbar\nSwitch toolbar"
+    ID_VIEW_STATUS_BAR      "Show or hide the status bar\nSwitch status bar"
+END
+
+STRINGTABLE
+BEGIN
+    AFX_IDS_SCSIZE          "Change window size"
+    AFX_IDS_SCMOVE          "Change window position"
+    AFX_IDS_SCMINIMIZE      "Shrink the window into an icon"
+    AFX_IDS_SCMAXIMIZE      "Enlarge the window to its maximum size"
+    AFX_IDS_SCNEXTWINDOW    "Switch to next document window"
+    AFX_IDS_SCPREVWINDOW    "Switch to previous document window"
+    AFX_IDS_SCCLOSE         "Close window; Prompt to save document"
+END
+
+STRINGTABLE
+BEGIN
+    AFX_IDS_SCRESTORE       "Restore the window to its normal size"
+    AFX_IDS_SCTASKLIST      "Activate task list"
+    AFX_IDS_MDICHILD        "Activate this window"
+END
+
+#endif    // English (United States) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE 4, 2
+#include "res\SfcGo.rc2"  // 非 Microsoft Visual C++ 编辑的资源
+#include "l.CHS\afxres.rc"      // 标准组件
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

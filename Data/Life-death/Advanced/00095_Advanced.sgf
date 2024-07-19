@@ -1,0 +1,4 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[sd][rd][qe][pe][oe][rf][nd][nc][nb][na]AW[ob][oc][od][pd][qd][rc][ra]C[黑先白死]
+
+(;B[pb]C[夹。好棋。];W[pa]C[我走这里呢？];B[rb]C[挖，是好次序。];W[sb];B[qb];W[qc];B[oa]C[白死。恭喜答对])
+(;B[rb]C[先挖吗？];W[sb];B[qb];W[qc];B[pb]C[夹，不好吧。];W[oa]C[我立下呢？];B[sc]C[断？不成了吧。];W[pa]C[失败。请重新开始]))

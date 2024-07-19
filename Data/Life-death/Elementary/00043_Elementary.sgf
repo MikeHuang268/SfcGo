@@ -1,0 +1,6 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[rq][rp][qp][pp][op][np][mq][mr][kq][on][ol]AW[sr][rr][qq][pq][nq][nr][qn][mp][mo][pl][pk]
+
+(;B[ps];W[or]C[此形下杀棋的急所。];B[ns];W[os]C[再扳，好次序！];B[pr]C[恭喜答对！])
+(;B[ns];W[ps]C[我这着是不是让你很难办？];B[qs];W[or]C[我已经活了，你再想想！])
+(;B[or];W[oq]C[你想得太简单了吧？];B[ns];W[ps]C[我已经活了，你再想想！])
+(;B[pr];W[qr]C[我接上你怎么办？];B[oq];W[or]C[我已经活了，你再想想！]))

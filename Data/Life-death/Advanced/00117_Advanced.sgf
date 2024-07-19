@@ -1,0 +1,6 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[rb][qb][qc][pd][pe][of][nf][me][le][ke][kd][kc][jc][ib][hb]AW[jb][kb][lc][ld][md][ne][oe][oc][pc][pb]C[黑先劫]
+
+(;B[mb]C[露骨地窥断];W[lb]C[不得不粘];B[na]C[连续的好手];W[oa]C[只好阻渡];B[nc];W[od];B[nd]C[继续切断]
+(;W[nb]C[不得不扑劫];B[ob]C[成劫是正解])
+(;W[mc];B[nb]C[白棋两边都气紧];W[la];B[ja]C[成为“金鸡独立”，白死。功亏一篑！]))
+(;B[nb]C[也是手筋];W[nc]C[压住可确保无事];B[mb];W[lb]C[你长，我粘，都是必然之着。];B[od];W[ja];B[nd]C[白活棋的空间增大了];W[mc];B[la]C[拼死一杀];W[na];B[oa];W[ob];B[ma];W[ka]C[接不归，白活。大侠，重来吧！]))

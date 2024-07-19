@@ -1,0 +1,8 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[od][qd][qe][re][sf][of][nb][mb][nd]AW[ob][pc][qc][rc][rf][rg][qh]C[黑先劫]
+
+(;B[sc]LB[sd:a]C[托，只此一手！其他着法，白可a位先尖活棋。];W[sd];B[rd]
+(;W[rb];B[qa]C[要点！];W[pa];B[na];W[qb];B[oa];W[ra];B[oc];W[sb]C[不愧是高手！PF，PF];B[pb])
+(;W[sb];B[ra]
+(;W[oa];B[qb];W[oc];B[pa];W[pb];B[qa]C[白棋被聚杀！])
+(;W[qb];B[oc];W[na];B[ma];W[pa]C[缓气劫，失败！])))
+(;B[qb]C[不是杀棋的地方];W[sd];B[rd];W[rb];B[ra];W[pa];B[qa];W[sc]C[白粘是先手，已成活棋。再试试！]))

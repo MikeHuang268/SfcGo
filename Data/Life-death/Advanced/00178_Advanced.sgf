@@ -1,0 +1,4 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[pr][or][oq][op][oo][no][nn][po][pn][pm][om][qm]AW[qr][pq][pp][qo][qn][rm][ql][qk][pl][ol][nm][mm][mo][mn][mp][mq][mr][kp]C[黑先活]
+
+(;B[rn];W[ro]C[打];B[qq];W[qp]C[再打];B[rq];W[rr]C[立是好手];B[sr];W[rp]C[白棋不行了];B[sq];W[sn];B[rs]C[恭喜答对])
+(;B[rr];W[rq]C[夹能行吗];B[qs];W[qq]C[失败，重来吧]))

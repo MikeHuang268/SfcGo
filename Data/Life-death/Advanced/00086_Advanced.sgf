@@ -1,0 +1,4 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[rb][qa][pe][qe][rf][od][nd][nc][lc][lb]AW[nb][oa][pb][oc][pc][rc]C[黑先劫]
+
+(;B[qc]C[挖];W[qb]C[我走这里呢？];B[sc]C[打是好次序。];W[rd]C[我退。];B[qd];W[sd]C[你接，我打。];B[sa]C[巧妙，成为宽一气劫。恭喜答对])
+(;B[rd];W[sc]C[你夹，我立下。];B[qc];W[qb]C[失败。请重新开始]))

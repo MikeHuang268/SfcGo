@@ -1,0 +1,4 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[dp][ep][eq][fr][fs][gq][co][bo][bn]AW[ao][cp][br][dr][er][es]C[黑先杀白]
+
+(;B[cs]C[击中白棋的要害。];W[bs];B[bq]C[杀棋必然之着！];W[cq];B[bp];W[ar];B[cr]C[好手段！];W[ds];B[cr]C[白棋病态尽现，死路一条。])
+(;B[bq]C[错误的次序！];W[cq];B[bp];W[cs];B[ar]C[强行杀。];W[dq];B[bs]C[劫杀就是失败！重来吧！]))

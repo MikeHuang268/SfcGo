@@ -1,0 +1,11 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[sr][rq][rp][ro][qn][pn][on][nn][np][nq][lq][mr]AW[po][qo][qp][qq][rr][pq][oq][op][nr]
+
+(;B[ns];W[pr]C[黑1这边打是手筋。];B[ps];W[qs]C[哼！只要劫活也行。];B[os];W[sq]C[怎么样，想到我这着了吗？];B[ss]C[咳！闹了半天，是我没想到你的这着立。恭喜答对！佩服！])
+(;B[pr];W[or]C[告诉你，我的水平可不低！];B[qr];W[rs]C[没着了吧？好好想想，重来吧！])
+(;B[rs];W[pr]C[哼！只要劫活也行。];B[ps];W[os]C[哈哈，你不行了吧？再想想！])
+(;B[or];W[pr]C[你想得太简单了，重来吧！])
+(;B[qr];W[pr]C[你想得太简单了，重来吧！])
+(;B[qs];W[ps]C[咦！这着酷似手筋。]
+(;B[pr];W[qr]C[我的手段很高明吧？];B[os];W[or]C[哈哈，不行了吧？重来吧！])
+(;B[or];W[ns]C[哈哈，没想到我这着吧？再想想！])
+(;B[rs];W[ns]C[哼，我的计算力可不低！];B[pr];W[qr]C[我的手段很高明吧？];B[os];W[or]C[哈哈，不行了吧？重来吧！])))

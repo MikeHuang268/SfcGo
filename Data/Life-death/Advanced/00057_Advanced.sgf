@@ -1,0 +1,5 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[kp][kq][kr][mr][jo][io][hp][hn][gn][fn][fo][ep][dp][cq][bp][br][cs]AW[go][hq][ip][jr][fp][fq][eq][dq][dr][cr]C[黑先杀白]
+
+(;B[hr];W[ir]C[黑1夹紧是要点，我只能如此。];B[gq];W[iq]C[我只能接上。];B[fr];W[gp]C[我水平有限，看不出你怎么杀我。];B[gr];W[ho]C[好象比气你不够吧？];B[js];W[is]C[我当然挡上。];B[ds];W[es]C[我再挡。];B[bs];W[er]C[我粘上。];B[fs];W[hp]C[没办法，还得粘。];B[gs]C[哎呀！原来是花六，你真是太厉害了！])
+(;B[gr];W[hr]C[我挡住。];B[fr];W[gs]C[你想到我扳了吗？];B[fs];W[gq]C[我接上。];B[hs];W[is]C[哈哈，你快不行了吧？];B[ds];W[es]C[成劫活，不算赢，再想想！])
+(;B[ir];W[hr]C[我夹住，你怎么办？];B[iq];W[fr]C[我做眼。];B[es];W[ds]C[我早料到啦！];B[hs];W[gs]C[我已经活了，重来吧！]))

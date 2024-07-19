@@ -1,0 +1,5 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[rb][rc][oc][ob][mb][nb]AW[sb][sd][rd][qd][pd][od][nc][mc][lb][kc]C[黑先活]
+
+(;B[pc];W[sc]C[你挡住，我连上，你怎么办？];B[pa]C[眼形的急所，黑棋活。恭喜答对])
+(;B[pa];W[pc]C[你尖？我走这里，你怎么办？];B[pb];W[ra];B[sc];W[qb];B[sa]C[失败。请重新开始])
+(;B[ra]C[立];W[pb]C[我走这里，你怎么办？];B[pc];W[qc];B[qb];W[pa];B[sc];W[ma]C[失败。请重新开始]))

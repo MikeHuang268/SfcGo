@@ -1,0 +1,4 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[rb][qb][qd][pd][od][nd][md][mc][nb][le][kd][jc][ib][id][hb]AW[jb][kb][lc][mb][ma][nc][oc][pc][pb]C[黑先白死]
+
+(;B[ja];W[ka];B[lb]C[这两步是好次序。];W[kc]C[我走这里呢？];B[oa];W[pa];B[qa]C[白棋左右都无法入气。恭喜答对])
+(;B[lb];W[la];B[ja]C[你走的这两步好象次序有些颠倒。];W[kc]C[我在这里做眼。];B[ia];W[ka];B[oa];W[pa];B[qa];W[na]C[白活棋。请重新开始。]))

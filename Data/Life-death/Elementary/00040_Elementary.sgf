@@ -1,0 +1,9 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[qb][qc][qd][rd][rf][rg][pg][of][oe][nd][md][lb][lc][ob][oc]AW[nb][nc][qa][pb][pc][pd][od][pe][qe][re]C[黑先杀白。]
+
+(;B[sb];W[rb]C[跳，要点，];B[rc];W[ra]C[你的水平不低呀！];B[se]C[高手，佩服，恭喜答对。])
+(;B[se];W[rb]C[我的水平可不低。]
+(;B[sd];W[sc]C[我要活了。];B[ra];W[sa]C[你已不行了，重来吧。])
+(;B[ra];W[sc]C[我已料到你有这么一手。];B[pa];W[sd]C[你只能和我开劫，不算赢，再想想。]))
+(;B[ra];W[sc]C[我的手筋让你头痛吧。];B[sd];W[rb]C[你快不行了。];B[pa];W[se]C[哈哈，是打劫，重来吧。])
+(;B[sc];W[rb]C[这样就想杀我，哼！];B[se];W[rc]C[知道我的厉害了吧。];B[sd];W[sb]C[投降吧！我已活了。])
+(;B[rb];W[se]C[你敢这样走，我要动杀心了。];B[ra];W[sc]C[你的角已无法活了，重来吧！]))

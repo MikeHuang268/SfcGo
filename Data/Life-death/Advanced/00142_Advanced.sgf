@@ -1,0 +1,7 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[iq][gq][gr][fr][eq][ep][do][co][bn][an][cm][bl][bk][ck][dk]AW[cl][dl][dm][fm][eo][fo][fp][fq][dp][cp][bp][bo][ao]C[黑先白死]
+
+(;B[cr]C[只此一点];W[dr];B[er]C[粘，正着！];W[br]
+(;B[cq]C[继续挺进];W[dq];B[ds];W[bq];B[bs]C[急所被占，白死定了。恭喜答对！])
+(;B[bs]C[错着。];W[cq];B[ds]C[白成净活。重来吧！];W[aq]))
+(;B[dr]C[也不是正解];W[br];B[cr];W[bs]C[白占据要点，已净活！])
+(;B[br]C[有问题的一手];W[cr];B[dr]C[只能如此];W[dq];B[er]C[只好粘上];W[bs];B[bq];W[aq];B[ar]C[已成劫活，杀棋失败，重来吧！]))

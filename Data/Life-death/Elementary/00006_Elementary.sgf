@@ -1,0 +1,11 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[ap][bp][cp][cq][dp][ep][fq][gp][gr][hr]AW[bq][br][cr][er][eq][fr][gs]C[黑先]
+
+(;B[dr];W[dq]C[挖是必然的一手];B[ds];W[aq]C[黑立好手！]
+(;B[ar];W[as]C[精彩！];B[cs]C[高手啊！佩服！])
+(;B[bs];W[as]C[打劫活，失败！换种方法试试。])
+(;B[fs];W[cs];B[es];W[as]C[被活了一半，失败！]))
+(;B[ar];W[aq]C[托是第一感觉，但是...];B[dr];W[cs]C[忽略了这一招了吧，计算力还要加强啊！
+])
+(;B[aq];W[ar];B[dr];W[dq]C[简单成活])
+(;B[fs];W[es];B[aq];W[ar];B[dq];W[dr]C[招法过于简单了吧])
+(;B[ds];W[dr]C[还是换种方法吧]))
