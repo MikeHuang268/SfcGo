@@ -1,5 +1,7 @@
 # SfcGo
 
+[![Watch the video](https://youtu.be/Msf40qRxonU)
+
 ## Overview
 
 SfcGo is a Go game interface software that aims to provide people with a happy Go game experience using today's advanced AI Go engine.
