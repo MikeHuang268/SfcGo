@@ -1,8 +1,0 @@
-(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[rb][rc][pc][pd][od][le][me][ne][mc][kd][jd][ic][hc][hb]AW[ib][jc][kc][lb][md][nd][nc][oc]C[黑先白死]
-
-(;B[nb]C[正解];W[ob];B[mb];W[ma]C[顽强]
-(;B[lc];W[ld];B[kb];W[na];B[jb]C[弃子战术，用得不错。];W[lc];B[mb];W[pb];B[pa]C[大功告成！])
-(;B[kb]C[假手筋];W[jb];B[lc];W[ka];B[ld];W[ia]C[啊！大部队做活了！杀棋失败，重来吧！]))
-(;B[mb]C[很容易想到的一手];W[nb]
-(;B[lc];W[ld]C[也弃子];B[kb];W[ma];B[jb];W[pb]C[白棋活得大了，杀棋彻底失败！])
-(;B[ma];W[na]C[继续弃子？];B[jb];W[kb];B[ia];W[pb];B[pa];W[qa];B[qb];W[oa];B[ra];W[lc]C[成劫就是失败，重来吧！])))

@@ -1,7 +1,0 @@
-(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[bq][cq][cp][dr][eq][ep][eo][en][gn][go][gp][in][il][dn]AW[cr][br][aq][bp][bo][co][cm][dm][em][fl][gl][hn][ho][hp][gq][fq][fp][jq][lq]C[黑先活]
-
-(;B[hq];W[hr]C[断是此处的唯一一手，请继续];B[gr];W[fr]C[再断好棋，妙手！];B[hm];W[gm]C[当然不让你跑！];B[iq];W[ip]C[还想跑，此路不通];B[ir];W[jp]C[我接上了，看你还有什么招。];B[hs];W[fs]C[我立你怎么下];B[gs];W[ds]C[你下的真是不错];B[er];W[es]C[好象有点不对劲];B[cs]C[啊，你太厉害了，祝贺成功！])
-(;B[fr];W[gr]C[虎不象手筋]
-(;B[do];W[ds]C[你是不是有点危险];B[cs]AB[dn];W[es]C[你活不了,重来吧])
-(;B[es];W[dp]C[简单吃死];B[dq];W[do]C[再想想别的下法]))
-(;B[hm];W[gm]C[那里跑];B[gr];W[hr]C[很象手筋啊];B[fr];W[dp]C[可你还是壮烈了];B[dq];W[do]C[换个下法吧]))

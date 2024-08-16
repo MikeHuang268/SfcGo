@@ -1,6 +1,0 @@
-(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[jb][jc][kd][ld][md][mc][nb][na]AW[pb][ob][nc][nd][me][le][ke][je][id][ic][ib][ja][hb]C[黑先活]
-
-(;B[kb]C[曲，是急所。];W[la]C[我点呢？];B[ka];W[lb]C[你立下又怎样？];B[lc]C[恭喜答对])
-(;B[la]C[好象是形];W[kb]C[我上扳];B[ka];W[lb]C[你断，我要打吃呢？];B[ia]C[提一子];W[mb]C[失败。请重新开始])
-(;B[ka]C[挡？];W[kb]C[你的挡好吗？我断呢？];B[ia];W[lb]C[你提，我长出。];B[mb]C[粘];W[la]C[我曲你怎么办？];B[jd];W[lc]C[失败。请重新开始])
-(;B[lb]C[虎扑];W[la]C[失败。请重新开始]))

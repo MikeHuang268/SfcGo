@@ -1,9 +1,0 @@
-(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[rb][rd][qd][pd][od][nd][qe][mc][lb]AW[re][rf][qf][of][ne][mf][md][ld][lc][kb][nc][oc][pb]C[死活问题，黑先净活。]
-
-(;B[nb];W[mb]C[这不象是手筋吧？];B[pc];W[qb]C[休想做活！];B[ob];W[mc]C[我接上你能把我怎么样？]
-(;B[qc];W[sb]C[你很厉害，但我不会上当。];B[qa];W[sd]C[我的手段很厉害吧？];B[pa];W[na]C[休想得逞！];B[sc];W[rc]C[就是打劫也不能让你轻易做活。];B[sa]C[啊？原来是双劫，真是高手！以后请多指教])
-(;B[qa];W[ra]C[我的水平可不低。];B[sa];W[pa]C[哈哈，成打劫活，你失败了。]))
-(;B[qb];W[pc]C[我早想到你这招了。];B[qc];W[sc]C[怎么样？];B[sd];W[qa]C[你已无法做活了，重来吧！])
-(;B[sd];W[qb]C[此路不通，换一招试试。])
-(;B[sc];W[qc]C[你想得太简单了。];B[pc];W[qb]C[你输了，重新想想吧。])
-(;B[pc];W[qb]C[你也太业余了。];B[nb];W[ob]C[你输了，回去好好练练吧！]))

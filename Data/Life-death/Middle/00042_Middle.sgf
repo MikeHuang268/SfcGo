@@ -1,8 +1,0 @@
-(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[rq][sp][ro][qo][qp][pp][op][np][mp][lp][mq][mr][nn][on][pn][no][kq][kr][jp][iq]AW[rr][sr][qq][pq][oq][nq][nr][ms][ls][lr][lq][kp][ko][lo][mn][mm][nm][om][pm][qn][ql][rn][sn]
-
-(;B[qr]
-(;W[qs]C[黑1断是必然，但接下来呢？];B[pr];W[ps]C[长，是好次序，但最关键的是在后面-----];B[ns];W[os]C[扑，是妙手。哇！你的计算力很强嘛！];B[ks];W[ns]C[打，是必然。];B[rs];W[or]C[哈哈，黑9后，黑棋已经见到活棋的曙光。];B[qr];W[ss]C[再扑，太妙了！];B[sq];W[pr]C[你真了不起！];B[so]C[恭喜答对！请以后多多指教！])
-(;W[pr]C[黑1断是必然，但接下来呢？];B[ns];W[os]C[扑，是此时的妙手！]
-(;B[qs];W[rs]C[立，太棒了！黑棋已经见到活棋的曙光。];B[sq];W[ps]C[你真了不起！];B[so]C[恭喜答对！请以后多多指教！])
-(;B[ks];W[ns]C[打，是必然。])))
-(;B[ns];W[os]C[先扑好象不行吧？];B[ks];W[ns]C[我粘上，你怎么办？];B[qr];W[qs]C[我当然打吃。];B[pr];W[rs]C[我粘上后，你已经无法活棋，重来吧！]))

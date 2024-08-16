@@ -1,7 +1,0 @@
-(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[ob][nc][mc][lc][kc][kb][jb][ib]AW[pb][qb][oc][od][nd][md][ld][kd][jc][ic][hc][hb][lb][la]C[黑先活]
-
-(;B[oa]C[扩大眼位的正着];W[mb];B[nb];W[ia];B[ma]C[送吃一子，好手。];W[na];B[ka]C[成“胀牯牛”，黑活棋。])
-(;B[ka]C[不是好棋！]
-(;W[oa];B[ia];W[ma]C[黑被杀！])
-(;W[ia]C[扳错了方向！];B[oa];W[mb];B[ma];W[na];B[nb]C[同样成“胀牯牛”，活棋。]))
-(;B[ia];W[oa];B[nb];W[ma];B[na];W[ka]C[黑被简单地“聚杀”！]))

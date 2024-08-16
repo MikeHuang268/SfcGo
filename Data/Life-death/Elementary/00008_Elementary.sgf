@@ -1,8 +1,0 @@
-(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[da][cb][dc][ec][fc][ic][ib]AW[id][jd][jb][kb][he][ge][fd][ed][dd][cd][bc][bb][ba][ca]C[黑先]
-
-(;B[fa];W[gb]C[跳是兼顾左右的好手！];B[gc];W[hb];B[hc];W[ia];B[ha];W[ga];B[fb]C[恭喜答对！])
-(;B[gc];W[eb]C[想扩大眼位吗？];B[fb];W[hb]C[决不让活。];B[hc];W[ia];B[gb];W[ha];B[ga];W[ea]C[无法活棋！])
-(;B[gb];W[ia];B[ha];W[hc];B[eb];W[fa]C[不能让活];B[cc];W[ea]C[打劫活，失败])
-(;B[ia];W[ea]
-(;B[fa];W[gb]C[点入！];B[gc];W[hb];B[hc];W[db]C[换种方法试试])
-(;B[eb];W[fa]C[劫活！失败])))

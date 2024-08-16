@@ -1,8 +1,0 @@
-(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[rc][rd][qd][pd][od][ne][me][md][lc][mb]AW[nb][nc][nd][pc][qc][rb][sb]C[黑先]
-
-(;B[pa];W[ob]C[唯一的要点，];B[qb];W[pb]C[没办法，我只有打吃。];B[ra]C[呀！成劫活，佩服，恭喜答对！])
-(;B[oc];W[ob]C[我当然挡上。];B[pb];W[qb]C[哼！我还以为你有什么高招。];B[pa];W[qa]C[我已做活，重来吧！])
-(;B[ob];W[oc]C[你的想法太简单。];B[na];W[pb]C[你已无法杀我，再想想吧。])
-(;B[na];W[pa]C[我才不上当呢！];B[ob];W[oc]C[你不行了，重来吧！])
-(;B[pb];W[oc]C[这样就想杀我？];B[qb];W[ob]C[你还是不行，重来吧。])
-(;B[qb];W[pb]C[我打吃。];B[qa];W[pa]C[你输了，再好好想想。]))

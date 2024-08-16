@@ -1,9 +1,0 @@
-(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[bb][cb][cc][cd][dd][ed][fd][gd][hd][hc][da]AW[ab][bc][bd][be][ce][de][ee][fe][ge][he][ie][ic][jc][hb][gc][fc][db][dc]C[黑先]
-
-(;B[gb];W[fb]C[唯一的应手]
-(;B[fa];W[eb]C[好棋！];B[ha]C[恭喜答对！佩服佩服！])
-(;B[eb];W[fa]C[次序有问题吧];B[ec];W[ba]C[就差一点点，换种方法再试试。]))
-(;B[ec];W[gb];B[eb];W[ba]C[无法做活])
-(;B[fa];W[gb];B[ec];W[fb];B[eb];W[ba]C[换种方法试试])
-(;B[eb];W[gb];B[ec];W[ba]C[再换个方法试试])
-(;B[fb];W[gb];B[ec];W[fa];B[eb];W[ba]C[再换个方法试试]))

@@ -1,8 +1,0 @@
-(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[qc][rc][pd][qd][oc][ob][oa]AW[na][nb][nc][od][oe][pe][qe][rd][rf][se][sc]C[黑先净活]
-
-(;B[qa];W[pb]C[跳，急所，我只有点眼。];B[sb];W[rb]C[再扳，又是好手，我只有打吃。];B[qb];W[sa]C[没办法，我提掉。];B[ra]C[我已无法接回，佩服，恭喜答对。])
-(;B[ra];W[rb]C[我一挖，你已无法做活，重来吧])
-(;B[sb];W[qb]C[我早想到你会这么走。]
-(;B[rb];W[ra]C[哈哈，休想得逞。];B[pb];W[qa]C[你只有劫活，再好好想想。])
-(;B[pb];W[rb]C[你只有劫活，再好好想想。]))
-(;B[qb];W[sb]C[你已无法做活，重来吧！]))

@@ -1,9 +1,0 @@
-(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[qc][nb][mc][md][ne][of][pf][qf][re]AW[rc][rd][qd][pd][od][oc]C[死活问题，黑先白死。]
-
-(;B[qa];W[qb]C[黑大飞是破眼的要点。];B[ra]C[黑再长，白已无法做活。恭喜你答对。])
-(;B[pb];W[ob]C[黑尖回看似不错，但白冲吃-----];B[oa];W[qb];B[qa];W[pc];B[ra];W[pa]C[成劫杀，黑棋失败])
-(;B[ob];W[qb]C[白棋已轻松做活。])
-(;B[qb];W[ob]
-(;B[pb];W[oa]C[黑棋失败。])
-(;B[oa];W[pa];B[pb];W[na];B[qa];W[oa]C[   黑已不能杀白。]))
-(;B[sd];W[qb];B[sc];W[sb]C[黑棋不成立，失败。]))

@@ -1,5 +1,0 @@
-(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[pe][qe][re][od][oc][ob][nb]AW[pb][pc][pd][qd][rb]C[黑先白死]
-
-(;B[pa]C[扳];W[qa];B[rc]C[跳是好次序。];W[rd];B[sd];W[sb]C[我先手，你呢？];B[sc];W[oa];B[qc]C[白死。恭喜答对])
-(;B[rc];W[rd]C[你这么跳不太好吧？];B[pa];W[qc]C[你扳，我打吃，你怎么办？];B[ra];W[qa]C[失败。请重新开始])
-(;B[sb];W[rc]C[失败。请重新开始]))

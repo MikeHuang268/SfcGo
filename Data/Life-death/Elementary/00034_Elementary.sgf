@@ -1,8 +1,0 @@
-(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[rb][qc][qd][pd][od][nd][nc][lb][mb]AW[nb][oc][pc][qb][rc][rd][re][qf][of][nf][me][mc][lc][kc][kb]C[黑先活。]
-
-(;B[oa];W[pb]C[好厉害的手筋，我沾上。];B[qa]C[你的水平不低呀！恭喜答对。])
-(;B[na];W[pb]C[你的想法似乎太简单，];B[ob];W[ra]C[你只有一只眼，再好好考虑考虑。])
-(;B[qa];W[ob]C[你的想法似乎太简单，];B[pb];W[ma]C[你只有一只眼，再好好考虑考虑。])
-(;B[pa];W[ob]C[你的手筋似乎有问题，];B[na];W[la]C[你已无法做活，重来吧！])
-(;B[pb];W[ob]C[你的想法似乎太简单，];B[qa];W[ma]C[你只有一只眼，再好好考虑考虑。])
-(;B[ob];W[pb]C[你的想法似乎太简单，];B[na];W[ra]C[你只有一只眼，再好好考虑考虑。]))

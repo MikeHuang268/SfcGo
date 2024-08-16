@@ -1,7 +1,0 @@
-(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[pb][lb][lc][ld][md][nd][oe][pe][qe][re][rd]AW[nc][mc][ob][od][pd][qd][rc]C[黑先杀白]
-
-(;B[qb];W[qc]
-(;B[na];W[oa];B[sb]C[高手的感觉！];W[rb];B[sc];W[ra];B[mb];W[nb];B[pa];W[ma];B[pc]C[佩服，果然是高手！])
-(;B[sb];W[rb];B[sc];W[ra];B[na];W[nb];B[pc];W[pa]C[白已成活形，杀棋宣告失败！]))
-(;B[rb];W[qb];B[qa];W[pc]C[成劫杀，失败！])
-(;B[na];W[qb];B[oa];W[pa]C[妙手！];B[qa];W[ra]C[白已活，失败！]))

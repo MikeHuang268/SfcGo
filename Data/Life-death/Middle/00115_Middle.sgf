@@ -1,6 +1,0 @@
-(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[pd][pc][pb][od][nd][md][mc][lb]AW[rb][qb][qd][rd][pe][oe][ne][me][ld][lc][kb][jb]C[黑先劫]
-;B[la]C[最强的一手]
-(;W[nb]C[别无选择的杀棋点！];B[mb];W[ob]C[只能如此];B[pa];W[oa];B[na]C[劫活成功！];W[ma]C[白棋还有三口外气，差不多可以说是净活])
-(;W[pa]C[手筋]
-(;B[oa];W[nb];B[mb];W[ob];B[qa];W[na];B[nc]C[成为白先提的劫争，黑失败！])
-(;B[ob]C[好手];W[nb];B[na]LB[mb:a][nc:a]C[下一手黑a、b必得其一，净活！])))

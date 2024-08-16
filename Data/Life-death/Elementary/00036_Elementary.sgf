@@ -1,9 +1,0 @@
-(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[qb][pb][pc][nc][mc][lc][kc][lb]AW[ra][rb][qc][qd][pd][pf][nd][md][ld][kd][jd][jc][jb][kb]C[黑先如何做活。]
-
-(;B[nb];W[ma]C[我点，破你的眼。];B[la];W[qa]C[我再长，好象你已经不行了。]
-(;B[pa];W[oc]C[哈哈，你已无法做活，重来吧！])
-(;B[oc];W[oa]C[没想到你的下法还挺高明，];B[pa];W[na]C[居然让你走成双活，佩服，恭喜答对。]))
-(;B[ma];W[nb]C[我点，破你的眼。];B[qa];W[ob]C[看你怎么活？];B[oc];W[oa]C[咦？好象有些不对劲。];B[na]C[居然让你走成双活，佩服，恭喜答对。])
-(;B[qa];W[ma]C[我早已料到你会这么走];B[la];W[nb]C[我的招法怎么样？];B[oa];W[oc]C[你快完了。];B[ob];W[od]C[嘻，你两边不入气，死定了。重来吧！])
-(;B[la];W[qa]C[哼！我的水平可不低。];B[pa];W[nb]C[我的计算也很强。];B[na];W[oc]C[哈哈，想双活？没门！重来吧。])
-(;B[na];W[qa]C[这样也不行吧？];B[pa];W[ob]C[我很厉害吧？];B[oc];W[la]C[你已无法做活，重来吧！]))

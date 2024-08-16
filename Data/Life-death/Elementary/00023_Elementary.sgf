@@ -1,9 +1,0 @@
-(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[cb][cc][bc][dc][cd][ce][cf][cg][bg][eb]AW[ac][bd][be][bf][ae][ag][bh][ch][dh][dg][df][ed][ec][db][fb][gc][jd]C[黑先]
-
-(;B[ba];W[ab]C[冷静的好手];B[da];W[bb];B[ca]C[您答对了！])
-(;B[da];W[ba]
-(;B[ab];W[fa]C[打劫，失败])
-(;B[fa];W[ga];B[ab];W[ah]C[劫活，不算成功]))
-(;B[ab];W[ba]
-(;B[da];W[fa]C[劫活，换种方法试试])
-(;B[ea];W[ca]C[被吃啦])))

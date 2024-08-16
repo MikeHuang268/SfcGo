@@ -1,8 +1,0 @@
-(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]HA[0]EV[TOM死活题]AB[ra][re][qe][pe][od][nd][nc][nb][mb]AW[ob][oc][qc][rc][pd][qa]C[黑先白死]
-
-(;B[oa]C[好棋]
-(;W[pa]
-(;B[na];W[pb];B[rb]C[要点];W[qd];B[qb]C[白气紧，无处可逃。])
-(;B[qb]C[恶手];W[na];B[rb];W[sb]C[白眼位扩大了！];B[ma];W[pc]C[白顽强做劫，黑失败！]))
-(;W[pb]C[正解的一个变化];B[rb]C[依然占据要点];W[sb];B[qd]C[白死]))
-(;B[qb];W[rb];B[pa];W[pb]C[成劫，失败！重来吧！]))
