@@ -1,12 +1,17 @@
 # SfcGo
 
-[![Watch the video](https://youtu.be/Msf40qRxonU)
+[![Watch the video](https://img.youtube.com/vi/Msf40qRxonU/0.jpg)](https://www.youtube.com/watch?v=Msf40qRxonU)
 
 ## Overview
 
 SfcGo is a Go game interface software that aims to provide people with a happy Go game experience using today's advanced AI Go engine.
 Sfc Go supports both GPU and CPU modes, so no matter whether your PC has a good graphics card or not, you can enjoy the top Go level that surpasses humans.
 SfcGo currently supports two languages, English and Chinese, and will support more in the future.
+
+## Getting started
+If you just want to play against the AI, please click [Release](https://github.com/MikeHuang268/SfcGo/releases), download the corresponding version, unzip it to the folder you want, and then run the SfcGo.exe file.
+Please note that AI engine will take several minutes to initialize when it is first loaded (not the first time the software is started). 
+Please wait patiently for the program to complete the setup. Have fun with it!
 
 ## Features
 
