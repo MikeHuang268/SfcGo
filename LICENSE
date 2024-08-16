@@ -2,8 +2,9 @@ The code in this repository currently relies on several other libraries, parts o
 or external files: patterns, gnugo, board, globals, sgftree, config, liberty, persistent,
  cach, targetver, metamachine, and those files in folder katago and leela. For the licenses for those libraries and/or files, see the
 individual readmes and/or license files for each one within their respective subdirectories within
-cpp/external. Additionally, cpp/core/sha2.cpp derives from another piece of external code
-and embeds its own license within that file.
+cpp/external. Additionally, Some SGF, picture and sound files come from the Internet. 
+ please do not use them for commercial purposes. Other wise, if you own the copyright to any of these files and do not wish them to be used, 
+please contact me to have them removed.
 
 Aside from the above, the license for all OTHER content in this repo is as follows:
 
